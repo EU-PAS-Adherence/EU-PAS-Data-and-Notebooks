@@ -11,7 +11,7 @@ This is a legend for all the files in this repository:
     + This folder contains output data created by the custom `statistic` commands and scrapy spiders
 
 ## Data flowchart
-The following flowchart illustrates the data flow for analysis. We used scraped and exported datasets, classifying the outcomes and cancelled studies manually. See [here](eupas_commands.md) for additional explanations.
+The following flowchart illustrates the data flow for analysis. We used scraped and exported datasets, classifying the outcomes and cancelled studies manually. See [here](ema_rwd_commands.md) for additional explanations.
 
 ```mermaid
 flowchart TD
