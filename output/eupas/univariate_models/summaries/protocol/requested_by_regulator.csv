@@ -1,0 +1,12 @@
+                    Logit Regression Results                    
+Dep. Variable:  ,has_protocol    ,  No. Observations:  ,  2283  
+Model:          ,Logit           ,  Df Residuals:      ,  2280  
+Method:         ,MLE             ,  Df Model:          ,     2  
+Date:           ,Fri, 01 Mar 2024,  Pseudo R-squ.:     ,0.004626
+Time:           ,18:16:49        ,  Log-Likelihood:    , -1412.6
+converged:      ,True            ,  LL-Null:           , -1419.2
+Covariance Type:,nonrobust       ,  LLR p-value:       ,0.001408
+                                         ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] 
+Intercept                                ,    0.6548,    0.060,   10.950, 0.000,    0.538,    0.772
+Q("requested_by_regulator__true")[T.True],    0.3130,    0.092,    3.394, 0.001,    0.132,    0.494
+Q("requested_by_regulator__nan")[T.True] ,   -0.3924,    0.425,   -0.924, 0.356,   -1.225,    0.440

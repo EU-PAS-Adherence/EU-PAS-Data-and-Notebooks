@@ -1,0 +1,18 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:           has_protocol   No. Observations:                 2283
+Model:                          Logit   Df Residuals:                     2278
+Method:                           MLE   Df Model:                            4
+Date:                Fri, 01 Mar 2024   Pseudo R-squ.:                 0.01403
+Time:                        18:16:49   Log-Likelihood:                -1399.3
+converged:                       True   LL-Null:                       -1419.2
+Covariance Type:            nonrobust   LLR p-value:                 4.701e-08
+================================================================================================================
+                                                   coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------------
+Intercept                                        0.9117      0.103      8.813      0.000       0.709       1.114
+Q("planned_duration_quartiles__2")[T.True]       0.1100      0.149      0.736      0.462      -0.183       0.403
+Q("planned_duration_quartiles__3")[T.True]      -0.3790      0.141     -2.685      0.007      -0.656      -0.102
+Q("planned_duration_quartiles__4")[T.True]       0.2183      0.149      1.465      0.143      -0.074       0.510
+Q("planned_duration_quartiles__nan")[T.True]    -0.5137      0.141     -3.633      0.000      -0.791      -0.237
+================================================================================================================

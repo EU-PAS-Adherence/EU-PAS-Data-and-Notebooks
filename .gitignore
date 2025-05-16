@@ -1,0 +1,10 @@
+# Excel temporary
+~$*.xls*
+
+# DS Store
+.DS_Store
+
+# PDF Folders
+rmp1
+rmp2
+rmp_other

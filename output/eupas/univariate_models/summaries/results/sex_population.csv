@@ -1,0 +1,12 @@
+                    Logit Regression Results                    
+Dep. Variable:  ,has_result      ,  No. Observations:  ,  1470  
+Model:          ,Logit           ,  Df Residuals:      ,  1467  
+Method:         ,MLE             ,  Df Model:          ,     2  
+Date:           ,Fri, 01 Mar 2024,  Pseudo R-squ.:     ,0.003914
+Time:           ,18:16:50        ,  Log-Likelihood:    , -889.33
+converged:      ,True            ,  LL-Null:           , -892.83
+Covariance Type:,nonrobust       ,  LLR p-value:       ,0.03035 
+                                   ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] 
+Intercept                          ,    0.8185,    0.060,   13.584, 0.000,    0.700,    0.937
+Q("sex_population__female")[T.True],    0.5885,    0.236,    2.498, 0.012,    0.127,    1.050
+Q("sex_population__male")[T.True]  ,    0.1534,    0.320,    0.480, 0.631,   -0.473,    0.780

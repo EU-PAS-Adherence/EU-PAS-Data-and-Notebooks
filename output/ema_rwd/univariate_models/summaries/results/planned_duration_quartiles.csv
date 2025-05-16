@@ -1,0 +1,14 @@
+                     Logit Regression Results                    
+Dep. Variable:  ,has_result      ,  No. Observations:  ,  1482   
+Model:          ,Logit           ,  Df Residuals:      ,  1477   
+Method:         ,MLE             ,  Df Model:          ,     4   
+Date:           ,Sun, 16 Mar 2025,  Pseudo R-squ.:     ,0.01158  
+Time:           ,21:02:10        ,  Log-Likelihood:    , -913.55 
+converged:      ,True            ,  LL-Null:           , -924.26 
+Covariance Type:,nonrobust       ,  LLR p-value:       ,0.0002630
+                                            ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] ,odds rt,[0.025,0.975]
+Intercept                                   ,    0.6931,    0.123,    5.631, 0.000,    0.452,    0.934,2.0    ,1.5713,2.5457
+Q("planned_duration_quartiles__2")[T.True]  ,    0.1363,    0.177,    0.771, 0.441,   -0.210,    0.483,1.1461 ,0.8103,1.621 
+Q("planned_duration_quartiles__3")[T.True]  ,    0.1252,    0.177,    0.709, 0.478,   -0.221,    0.471,1.1333 ,0.8018,1.6019
+Q("planned_duration_quartiles__4")[T.True]  ,    0.5123,    0.185,    2.768, 0.006,    0.150,    0.875,1.6691 ,1.1613,2.3991
+Q("planned_duration_quartiles__nan")[T.True],   -0.2987,    0.170,   -1.758, 0.079,   -0.632,    0.034,0.7418 ,0.5317,1.035 

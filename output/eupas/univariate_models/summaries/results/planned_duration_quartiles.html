@@ -1,0 +1,44 @@
+<table class="simpletable">
+<caption>Logit Regression Results</caption>
+<tr>
+  <th>Dep. Variable:</th>      <td>has_result</td>    <th>  No. Observations:  </th>  <td>  1470</td>  
+</tr>
+<tr>
+  <th>Model:</th>                 <td>Logit</td>      <th>  Df Residuals:      </th>  <td>  1465</td>  
+</tr>
+<tr>
+  <th>Method:</th>                 <td>MLE</td>       <th>  Df Model:          </th>  <td>     4</td>  
+</tr>
+<tr>
+  <th>Date:</th>            <td>Fri, 01 Mar 2024</td> <th>  Pseudo R-squ.:     </th>  <td>0.01164</td> 
+</tr>
+<tr>
+  <th>Time:</th>                <td>18:16:50</td>     <th>  Log-Likelihood:    </th> <td> -882.44</td> 
+</tr>
+<tr>
+  <th>converged:</th>             <td>True</td>       <th>  LL-Null:           </th> <td> -892.83</td> 
+</tr>
+<tr>
+  <th>Covariance Type:</th>     <td>nonrobust</td>    <th>  LLR p-value:       </th> <td>0.0003494</td>
+</tr>
+</table>
+<table class="simpletable">
+<tr>
+                        <td></td>                          <th>coef</th>     <th>std err</th>      <th>z</th>      <th>P>|z|</th>  <th>[0.025</th>    <th>0.975]</th>  
+</tr>
+<tr>
+  <th>Intercept</th>                                    <td>    0.7303</td> <td>    0.112</td> <td>    6.544</td> <td> 0.000</td> <td>    0.512</td> <td>    0.949</td>
+</tr>
+<tr>
+  <th>Q("planned_duration_quartiles__2")[T.True]</th>   <td>    0.3522</td> <td>    0.169</td> <td>    2.083</td> <td> 0.037</td> <td>    0.021</td> <td>    0.684</td>
+</tr>
+<tr>
+  <th>Q("planned_duration_quartiles__3")[T.True]</th>   <td>    0.0203</td> <td>    0.168</td> <td>    0.121</td> <td> 0.904</td> <td>   -0.309</td> <td>    0.350</td>
+</tr>
+<tr>
+  <th>Q("planned_duration_quartiles__4")[T.True]</th>   <td>    0.7232</td> <td>    0.216</td> <td>    3.346</td> <td> 0.001</td> <td>    0.300</td> <td>    1.147</td>
+</tr>
+<tr>
+  <th>Q("planned_duration_quartiles__nan")[T.True]</th> <td>   -0.1172</td> <td>    0.165</td> <td>   -0.709</td> <td> 0.478</td> <td>   -0.441</td> <td>    0.207</td>
+</tr>
+</table>

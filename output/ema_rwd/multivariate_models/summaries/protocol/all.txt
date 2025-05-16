@@ -1,0 +1,46 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:           has_protocol   No. Observations:                 2300
+Model:                          Logit   Df Residuals:                     2267
+Method:                           MLE   Df Model:                           32
+Date:                Sun, 16 Mar 2025   Pseudo R-squ.:                  0.1213
+Time:                        21:02:07   Log-Likelihood:                -1363.7
+converged:                       True   LL-Null:                       -1551.9
+Covariance Type:            nonrobust   LLR p-value:                 1.977e-60
+===========================================================================================================================================================================================================
+                                                                                                             coef    std err          z      P>|z|      [0.025      0.975]    odds rt     [0.025     0.975]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                                                                  0.8354      0.220      3.793      0.000       0.404       1.267     2.3057     1.4973     3.5505
+Q("age_population__18+_years;_<18_years")[T.True]                                                          0.1360      0.111      1.223      0.221      -0.082       0.354     1.1457     0.9214     1.4247
+Q("age_population__<18_years")[T.True]                                                                     0.0163      0.195      0.084      0.933      -0.366       0.399     1.0165     0.6935       1.49
+Q("collaboration_with_research_network__true")[T.True]                                                     0.7822      0.170      4.589      0.000       0.448       1.116     2.1862     1.5653     3.0534
+Q("funding_sources_grouped__mixed")[T.True]                                                               -0.1918      0.337     -0.569      0.569      -0.853       0.469     0.8254     0.4263     1.5984
+Q("funding_sources_grouped__no_funding")[T.True]                                                           0.7654      0.436      1.754      0.079      -0.090       1.621     2.1498      0.914     5.0563
+Q("funding_sources_grouped__non-commercial")[T.True]                                                      -0.0077      0.157     -0.049      0.961      -0.316       0.301     0.9924     0.7291     1.3507
+Q("funding_sources_grouped__unclear")[T.True]                                                             -0.7180      0.376     -1.908      0.056      -1.455       0.019     0.4878     0.2333     1.0196
+Q("has_outcomes__true")[T.True]                                                                            0.0778      0.132      0.589      0.556      -0.181       0.337     1.0809     0.8344     1.4002
+Q("multiple_funding_sources__true")[T.True]                                                               -0.2552      0.177     -1.443      0.149      -0.602       0.091     0.7747     0.5477     1.0958
+Q("number_of_countries_grouped__multiple_countries")[T.True]                                               0.2721      0.107      2.549      0.011       0.063       0.481     1.3127     1.0649     1.6182
+Q("number_of_studies_funded_by_biggest_sponsor_quartiles__1")[T.True]                                     -0.5752      0.139     -4.141      0.000      -0.847      -0.303     0.5626     0.4285     0.7386
+Q("number_of_studies_funded_by_biggest_sponsor_quartiles__2")[T.True]                                     -0.2927      0.142     -2.061      0.039      -0.571      -0.014     0.7463     0.5649     0.9858
+Q("number_of_studies_funded_by_biggest_sponsor_quartiles__3")[T.True]                                      0.1793      0.150      1.199      0.230      -0.114       0.472     1.1964     0.8925     1.6039
+Q("number_of_subjects_grouped__1000-10000")[T.True]                                                        0.1281      0.138      0.927      0.354      -0.143       0.399     1.1367     0.8669     1.4904
+Q("number_of_subjects_grouped__500-<1000")[T.True]                                                         0.0062      0.172      0.036      0.971      -0.331       0.343     1.0062     0.7185      1.409
+Q("number_of_subjects_grouped__<100")[T.True]                                                              0.2909      0.175      1.664      0.096      -0.052       0.633     1.3376     0.9496      1.884
+Q("number_of_subjects_grouped__>10000")[T.True]                                                            0.3219      0.149      2.165      0.030       0.030       0.613     1.3797     1.0309     1.8466
+Q("planned_duration_quartiles__2")[T.True]                                                                 0.1803      0.153      1.175      0.240      -0.120       0.481     1.1976     0.8866     1.6176
+Q("planned_duration_quartiles__3")[T.True]                                                                -0.0208      0.156     -0.134      0.894      -0.326       0.284     0.9794     0.7218      1.329
+Q("planned_duration_quartiles__4")[T.True]                                                                 0.3579      0.176      2.031      0.042       0.013       0.703     1.4303     1.0126     2.0202
+Q("planned_duration_quartiles__nan")[T.True]                                                              -0.1978      0.160     -1.237      0.216      -0.511       0.116     0.8206     0.5998     1.1226
+Q("risk_management_plan__eu_rmp_category_1_(imposed_as_condition_of_marketing_authorisation)")[T.True]     0.6901      0.239      2.885      0.004       0.221       1.159     1.9939     1.2477     3.1864
+Q("risk_management_plan__eu_rmp_category_2_(specific_obligation_of_marketing_authorisation)")[T.True]      0.4652      0.406      1.146      0.252      -0.330       1.261     1.5924     0.7187     3.5283
+Q("risk_management_plan__eu_rmp_category_3_(required)")[T.True]                                            0.6059      0.127      4.757      0.000       0.356       0.856     1.8329      1.428     2.3528
+Q("risk_management_plan__nan")[T.True]                                                                     0.3361      0.239      1.408      0.159      -0.132       0.804     1.3995     0.8765     2.2345
+Q("risk_management_plan__non-eu_rmp_only")[T.True]                                                         0.7645      0.220      3.481      0.000       0.334       1.195      2.148     1.3967     3.3035
+Q("studied_medical_conditions__false")[T.True]                                                            -0.0287      0.112     -0.257      0.797      -0.248       0.190     0.9717     0.7804     1.2097
+Q("study_type__clinical_trial")[T.True]                                                                   -1.1002      0.427     -2.577      0.010      -1.937      -0.264     0.3328     0.1442     0.7683
+Q("study_type__not_applicable")[T.True]                                                                   -0.8347      0.354     -2.355      0.019      -1.529      -0.140      0.434     0.2167     0.8692
+Q("updated_state__ongoing")[T.True]                                                                       -1.4806      0.116    -12.716      0.000      -1.709      -1.252     0.2275     0.1811     0.2858
+Q("uses_established_data_source__true")[T.True]                                                            0.1836      0.117      1.573      0.116      -0.045       0.412     1.2015     0.9558     1.5103
+Q("data_collection_days_difference")                                                                      -0.0002   3.93e-05     -4.861      0.000      -0.000      -0.000     0.9998     0.9997     0.9999
+===========================================================================================================================================================================================================

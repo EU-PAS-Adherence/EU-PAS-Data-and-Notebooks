@@ -1,0 +1,13 @@
+To,count,From
+Finalised,1484,All
+Ongoing,816,All
+Planned,400,All
+Cancelled,60,All
+Due Protocols,1484,Finalised
+Due Protocols,816,Ongoing
+Due Results,1482,Finalised
+Not Due Results,2,Finalised
+Has Protocols,1370,Due Protocols
+No Protocols,930,Due Protocols
+Has Results,1014,Due Results
+No Results,468,Due Results

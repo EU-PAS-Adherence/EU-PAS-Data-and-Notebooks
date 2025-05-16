@@ -1,0 +1,19 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:           has_protocol   No. Observations:                 2283
+Model:                          Logit   Df Residuals:                     2277
+Method:                           MLE   Df Model:                            5
+Date:                Fri, 01 Mar 2024   Pseudo R-squ.:                 0.01703
+Time:                        18:16:49   Log-Likelihood:                -1395.0
+converged:                       True   LL-Null:                       -1419.2
+Covariance Type:            nonrobust   LLR p-value:                 3.052e-09
+==========================================================================================================================================================================
+                                                                                                             coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                                                                  0.6371      0.059     10.807      0.000       0.522       0.753
+Q("risk_management_plan__eu_rmp_category_1_(imposed_as_condition_of_marketing_authorisation)")[T.True]     0.8558      0.254      3.364      0.001       0.357       1.354
+Q("risk_management_plan__eu_rmp_category_2_(specific_obligation_of_marketing_authorisation)")[T.True]      0.7129      0.428      1.665      0.096      -0.126       1.552
+Q("risk_management_plan__eu_rmp_category_3_(required)")[T.True]                                            0.4128      0.109      3.790      0.000       0.199       0.626
+Q("risk_management_plan__non-eu_rmp_only")[T.True]                                                         0.6108      0.219      2.792      0.005       0.182       1.040
+Q("risk_management_plan__nan")[T.True]                                                                    -0.6200      0.194     -3.194      0.001      -1.000      -0.240
+==========================================================================================================================================================================

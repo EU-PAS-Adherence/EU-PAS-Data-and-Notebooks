@@ -1,0 +1,41 @@
+<table class="simpletable">
+<caption>Logit Regression Results</caption>
+<tr>
+  <th>Dep. Variable:</th>      <td>has_result</td>    <th>  No. Observations:  </th>  <td>  1470</td>  
+</tr>
+<tr>
+  <th>Model:</th>                 <td>Logit</td>      <th>  Df Residuals:      </th>  <td>  1466</td>  
+</tr>
+<tr>
+  <th>Method:</th>                 <td>MLE</td>       <th>  Df Model:          </th>  <td>     3</td>  
+</tr>
+<tr>
+  <th>Date:</th>            <td>Fri, 01 Mar 2024</td> <th>  Pseudo R-squ.:     </th>  <td>0.01368</td> 
+</tr>
+<tr>
+  <th>Time:</th>                <td>18:16:50</td>     <th>  Log-Likelihood:    </th> <td> -880.62</td> 
+</tr>
+<tr>
+  <th>converged:</th>             <td>True</td>       <th>  LL-Null:           </th> <td> -892.83</td> 
+</tr>
+<tr>
+  <th>Covariance Type:</th>     <td>nonrobust</td>    <th>  LLR p-value:       </th> <td>2.039e-05</td>
+</tr>
+</table>
+<table class="simpletable">
+<tr>
+                        <td></td>                          <th>coef</th>     <th>std err</th>      <th>z</th>      <th>P>|z|</th>  <th>[0.025</th>    <th>0.975]</th>  
+</tr>
+<tr>
+  <th>Intercept</th>                                    <td>    0.9950</td> <td>    0.064</td> <td>   15.491</td> <td> 0.000</td> <td>    0.869</td> <td>    1.121</td>
+</tr>
+<tr>
+  <th>Q("study_type__active_surveillance")[T.True]</th> <td>   -1.0491</td> <td>    0.335</td> <td>   -3.130</td> <td> 0.002</td> <td>   -1.706</td> <td>   -0.392</td>
+</tr>
+<tr>
+  <th>Q("study_type__clinical_trial")[T.True]</th>      <td>   -0.6273</td> <td>    0.438</td> <td>   -1.431</td> <td> 0.152</td> <td>   -1.486</td> <td>    0.232</td>
+</tr>
+<tr>
+  <th>Q("study_type__other")[T.True]</th>               <td>   -0.6491</td> <td>    0.164</td> <td>   -3.958</td> <td> 0.000</td> <td>   -0.970</td> <td>   -0.328</td>
+</tr>
+</table>

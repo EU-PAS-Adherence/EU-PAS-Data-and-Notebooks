@@ -1,0 +1,15 @@
+                    Logit Regression Results                    
+Dep. Variable:  ,has_result      ,  No. Observations:  ,  1470  
+Model:          ,Logit           ,  Df Residuals:      ,  1464  
+Method:         ,MLE             ,  Df Model:          ,     5  
+Date:           ,Fri, 01 Mar 2024,  Pseudo R-squ.:     ,0.005690
+Time:           ,00:52:44        ,  Log-Likelihood:    , -887.75
+converged:      ,True            ,  LL-Null:           , -892.83
+Covariance Type:,nonrobust       ,  LLR p-value:       ,0.07080 
+                                                              ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] 
+Intercept                                                     ,    1.1963,    0.317,    3.779, 0.000,    0.576,    1.817
+Q("age_population__18-64_years;_65+_years")[T.True]           ,   -0.3555,    0.325,   -1.094, 0.274,   -0.993,    0.282
+Q("age_population__18-64_years;_65+_years;_<18_years")[T.True],   -0.4168,    0.337,   -1.238, 0.216,   -1.077,    0.243
+Q("age_population__18-64_years;_<18_years")[T.True]           ,    0.5167,    0.456,    1.134, 0.257,   -0.376,    1.409
+Q("age_population__65+_years")[T.True]                        ,   -0.3696,    0.553,   -0.669, 0.504,   -1.453,    0.714
+Q("age_population__<18_years")[T.True]                        ,   -0.4425,    0.382,   -1.157, 0.247,   -1.192,    0.307

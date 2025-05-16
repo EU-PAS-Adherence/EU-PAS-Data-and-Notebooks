@@ -1,0 +1,38 @@
+<table class="simpletable">
+<caption>Logit Regression Results</caption>
+<tr>
+  <th>Dep. Variable:</th>     <td>has_protocol</td>   <th>  No. Observations:  </th>  <td>  2300</td>  
+</tr>
+<tr>
+  <th>Model:</th>                 <td>Logit</td>      <th>  Df Residuals:      </th>  <td>  2297</td>  
+</tr>
+<tr>
+  <th>Method:</th>                 <td>MLE</td>       <th>  Df Model:          </th>  <td>     2</td>  
+</tr>
+<tr>
+  <th>Date:</th>            <td>Sun, 16 Mar 2025</td> <th>  Pseudo R-squ.:     </th> <td>0.006686</td> 
+</tr>
+<tr>
+  <th>Time:</th>                <td>21:02:06</td>     <th>  Log-Likelihood:    </th> <td> -1541.5</td> 
+</tr>
+<tr>
+  <th>converged:</th>             <td>True</td>       <th>  LL-Null:           </th> <td> -1551.9</td> 
+</tr>
+<tr>
+  <th>Covariance Type:</th>     <td>nonrobust</td>    <th>  LLR p-value:       </th> <td>3.117e-05</td>
+</tr>
+</table>
+<table class="simpletable">
+<tr>
+                     <td></td>                        <th>coef</th>     <th>std err</th>      <th>z</th>      <th>P>|z|</th>  <th>[0.025</th>    <th>0.975]</th>   <th>odds rt</th> <th>[0.025</th> <th>0.975]</th>
+</tr>
+<tr>
+  <th>Intercept</th>                               <td>    0.4235</td> <td>    0.043</td> <td>    9.766</td> <td> 0.000</td> <td>    0.338</td> <td>    0.508</td> <td>1.5273</td>  <td>1.4028</td> <td>1.6628</td>
+</tr>
+<tr>
+  <th>Q("study_type__clinical_trial")[T.True]</th> <td>   -1.2119</td> <td>    0.384</td> <td>   -3.157</td> <td> 0.002</td> <td>   -1.964</td> <td>   -0.460</td> <td>0.2976</td>  <td>0.1403</td> <td>0.6315</td>
+</tr>
+<tr>
+  <th>Q("study_type__not_applicable")[T.True]</th> <td>   -0.9831</td> <td>    0.316</td> <td>   -3.107</td> <td> 0.002</td> <td>   -1.603</td> <td>   -0.363</td> <td>0.3741</td>  <td>0.2013</td> <td>0.6956</td>
+</tr>
+</table>

@@ -1,0 +1,44 @@
+<table class="simpletable">
+<caption>Logit Regression Results</caption>
+<tr>
+  <th>Dep. Variable:</th>      <td>has_result</td>    <th>  No. Observations:  </th>  <td>  1482</td> 
+</tr>
+<tr>
+  <th>Model:</th>                 <td>Logit</td>      <th>  Df Residuals:      </th>  <td>  1477</td> 
+</tr>
+<tr>
+  <th>Method:</th>                 <td>MLE</td>       <th>  Df Model:          </th>  <td>     4</td> 
+</tr>
+<tr>
+  <th>Date:</th>            <td>Sun, 16 Mar 2025</td> <th>  Pseudo R-squ.:     </th> <td>0.003388</td>
+</tr>
+<tr>
+  <th>Time:</th>                <td>21:02:10</td>     <th>  Log-Likelihood:    </th> <td> -921.12</td>
+</tr>
+<tr>
+  <th>converged:</th>             <td>True</td>       <th>  LL-Null:           </th> <td> -924.26</td>
+</tr>
+<tr>
+  <th>Covariance Type:</th>     <td>nonrobust</td>    <th>  LLR p-value:       </th>  <td>0.1804</td> 
+</tr>
+</table>
+<table class="simpletable">
+<tr>
+                           <td></td>                              <th>coef</th>     <th>std err</th>      <th>z</th>      <th>P>|z|</th>  <th>[0.025</th>    <th>0.975]</th>   <th>odds rt</th> <th>[0.025</th> <th>0.975]</th>
+</tr>
+<tr>
+  <th>Intercept</th>                                           <td>    0.9383</td> <td>    0.124</td> <td>    7.546</td> <td> 0.000</td> <td>    0.695</td> <td>    1.182</td> <td>2.5556</td>  <td>2.0029</td> <td>3.2608</td>
+</tr>
+<tr>
+  <th>Q("number_of_subjects_grouped__1000-10000")[T.True]</th> <td>   -0.2365</td> <td>    0.169</td> <td>   -1.402</td> <td> 0.161</td> <td>   -0.567</td> <td>    0.094</td> <td>0.7894</td>  <td>0.5671</td> <td>1.0988</td>
+</tr>
+<tr>
+  <th>Q("number_of_subjects_grouped__500-<1000")[T.True]</th>  <td>   -0.4055</td> <td>    0.212</td> <td>   -1.915</td> <td> 0.056</td> <td>   -0.821</td> <td>    0.010</td> <td>0.6667</td>  <td>0.4402</td> <td>1.0096</td>
+</tr>
+<tr>
+  <th>Q("number_of_subjects_grouped__<100")[T.True]</th>       <td>    0.0673</td> <td>    0.214</td> <td>    0.314</td> <td> 0.753</td> <td>   -0.352</td> <td>    0.487</td> <td>1.0696</td>  <td>0.7031</td>  <td>1.627</td>
+</tr>
+<tr>
+  <th>Q("number_of_subjects_grouped__>10000")[T.True]</th>     <td>   -0.2181</td> <td>    0.157</td> <td>   -1.392</td> <td> 0.164</td> <td>   -0.525</td> <td>    0.089</td> <td>0.8041</td>  <td>0.5916</td> <td>1.0929</td>
+</tr>
+</table>

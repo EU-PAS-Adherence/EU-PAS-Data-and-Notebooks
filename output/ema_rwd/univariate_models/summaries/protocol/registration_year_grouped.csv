@@ -1,0 +1,20 @@
+                     Logit Regression Results                    
+Dep. Variable:  ,has_protocol    ,  No. Observations:  ,  2300   
+Model:          ,Logit           ,  Df Residuals:      ,  2289   
+Method:         ,MLE             ,  Df Model:          ,    10   
+Date:           ,Sun, 16 Mar 2025,  Pseudo R-squ.:     ,0.01026  
+Time:           ,21:02:06        ,  Log-Likelihood:    , -1536.0 
+converged:      ,True            ,  LL-Null:           , -1551.9 
+Covariance Type:,nonrobust       ,  LLR p-value:       ,0.0004247
+                                                 ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] ,odds rt,[0.025,0.975]
+Intercept                                        ,    0.4631,    0.149,    3.100, 0.002,    0.170,    0.756,1.589  ,1.1857,2.1296
+Q("registration_year_grouped__2014")[T.True]     ,   -0.2341,    0.200,   -1.169, 0.242,   -0.627,    0.158,0.7913 ,0.5344,1.1716
+Q("registration_year_grouped__2015")[T.True]     ,   -0.0068,    0.205,   -0.033, 0.974,   -0.408,    0.395,0.9932 ,0.6647,1.4842
+Q("registration_year_grouped__2016")[T.True]     ,    0.0873,    0.198,    0.442, 0.659,   -0.300,    0.475,1.0913 ,0.7407,1.6078
+Q("registration_year_grouped__2017")[T.True]     ,    0.2898,    0.206,    1.406, 0.160,   -0.114,    0.694,1.3362 ,0.8922,2.0012
+Q("registration_year_grouped__2018")[T.True]     ,    0.1889,    0.216,    0.873, 0.383,   -0.235,    0.613,1.2079 ,0.7903,1.8461
+Q("registration_year_grouped__2019")[T.True]     ,   -0.1674,    0.203,   -0.826, 0.409,   -0.565,    0.230,0.8458 ,0.5686,1.2583
+Q("registration_year_grouped__2020")[T.True]     ,    0.0759,    0.199,    0.381, 0.703,   -0.315,    0.466,1.0788 ,0.73  ,1.5944
+Q("registration_year_grouped__2021")[T.True]     ,   -0.2825,    0.201,   -1.404, 0.160,   -0.677,    0.112,0.7539 ,0.5082,1.1184
+Q("registration_year_grouped__2022")[T.True]     ,   -0.6291,    0.219,   -2.872, 0.004,   -1.058,   -0.200,0.5331 ,0.347 ,0.8189
+Q("registration_year_grouped__2023-2024")[T.True],   -0.3245,    0.218,   -1.488, 0.137,   -0.752,    0.103,0.7229 ,0.4714,1.1086

@@ -1,0 +1,44 @@
+<table class="simpletable">
+<caption>Logit Regression Results</caption>
+<tr>
+  <th>Dep. Variable:</th>     <td>has_protocol</td>   <th>  No. Observations:  </th>  <td>  2300</td> 
+</tr>
+<tr>
+  <th>Model:</th>                 <td>Logit</td>      <th>  Df Residuals:      </th>  <td>  2295</td> 
+</tr>
+<tr>
+  <th>Method:</th>                 <td>MLE</td>       <th>  Df Model:          </th>  <td>     4</td> 
+</tr>
+<tr>
+  <th>Date:</th>            <td>Sun, 16 Mar 2025</td> <th>  Pseudo R-squ.:     </th> <td>0.002767</td>
+</tr>
+<tr>
+  <th>Time:</th>                <td>21:02:06</td>     <th>  Log-Likelihood:    </th> <td> -1547.6</td>
+</tr>
+<tr>
+  <th>converged:</th>             <td>True</td>       <th>  LL-Null:           </th> <td> -1551.9</td>
+</tr>
+<tr>
+  <th>Covariance Type:</th>     <td>nonrobust</td>    <th>  LLR p-value:       </th>  <td>0.07229</td>
+</tr>
+</table>
+<table class="simpletable">
+<tr>
+                            <td></td>                              <th>coef</th>     <th>std err</th>      <th>z</th>      <th>P>|z|</th>  <th>[0.025</th>    <th>0.975]</th>   <th>odds rt</th> <th>[0.025</th> <th>0.975]</th>
+</tr>
+<tr>
+  <th>Intercept</th>                                            <td>    0.4383</td> <td>    0.048</td> <td>    9.040</td> <td> 0.000</td> <td>    0.343</td> <td>    0.533</td>  <td>1.55</td>   <td>1.4095</td> <td>1.7045</td>
+</tr>
+<tr>
+  <th>Q("funding_sources_grouped__mixed")[T.True]</th>          <td>   -0.2376</td> <td>    0.264</td> <td>   -0.900</td> <td> 0.368</td> <td>   -0.755</td> <td>    0.280</td> <td>0.7885</td>   <td>0.47</td>  <td>1.3229</td>
+</tr>
+<tr>
+  <th>Q("funding_sources_grouped__no_funding")[T.True]</th>     <td>    0.1495</td> <td>    0.397</td> <td>    0.376</td> <td> 0.707</td> <td>   -0.629</td> <td>    0.928</td> <td>1.1613</td>   <td>0.533</td> <td>2.5304</td>
+</tr>
+<tr>
+  <th>Q("funding_sources_grouped__non-commercial")[T.True]</th> <td>   -0.1967</td> <td>    0.113</td> <td>   -1.743</td> <td> 0.081</td> <td>   -0.418</td> <td>    0.024</td> <td>0.8215</td>  <td>0.6585</td> <td>1.0248</td>
+</tr>
+<tr>
+  <th>Q("funding_sources_grouped__unclear")[T.True]</th>        <td>   -0.7747</td> <td>    0.342</td> <td>   -2.268</td> <td> 0.023</td> <td>   -1.444</td> <td>   -0.105</td> <td>0.4608</td>   <td>0.236</td>   <td>0.9</td> 
+</tr>
+</table>

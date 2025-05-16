@@ -1,0 +1,47 @@
+<table class="simpletable">
+<caption>Logit Regression Results</caption>
+<tr>
+  <th>Dep. Variable:</th>     <td>has_protocol</td>   <th>  No. Observations:  </th>  <td>  2283</td> 
+</tr>
+<tr>
+  <th>Model:</th>                 <td>Logit</td>      <th>  Df Residuals:      </th>  <td>  2277</td> 
+</tr>
+<tr>
+  <th>Method:</th>                 <td>MLE</td>       <th>  Df Model:          </th>  <td>     5</td> 
+</tr>
+<tr>
+  <th>Date:</th>            <td>Fri, 01 Mar 2024</td> <th>  Pseudo R-squ.:     </th> <td>0.005245</td>
+</tr>
+<tr>
+  <th>Time:</th>                <td>00:52:43</td>     <th>  Log-Likelihood:    </th> <td> -1411.7</td>
+</tr>
+<tr>
+  <th>converged:</th>             <td>True</td>       <th>  LL-Null:           </th> <td> -1419.2</td>
+</tr>
+<tr>
+  <th>Covariance Type:</th>     <td>nonrobust</td>    <th>  LLR p-value:       </th>  <td>0.01085</td>
+</tr>
+</table>
+<table class="simpletable">
+<tr>
+                                 <td></td>                                   <th>coef</th>     <th>std err</th>      <th>z</th>      <th>P>|z|</th>  <th>[0.025</th>    <th>0.975]</th>  
+</tr>
+<tr>
+  <th>Intercept</th>                                                      <td>    0.9089</td> <td>    0.228</td> <td>    3.987</td> <td> 0.000</td> <td>    0.462</td> <td>    1.356</td>
+</tr>
+<tr>
+  <th>Q("age_population__18-64_years;_65+_years")[T.True]</th>            <td>   -0.2168</td> <td>    0.235</td> <td>   -0.922</td> <td> 0.357</td> <td>   -0.678</td> <td>    0.244</td>
+</tr>
+<tr>
+  <th>Q("age_population__18-64_years;_65+_years;_<18_years")[T.True]</th> <td>   -0.0537</td> <td>    0.246</td> <td>   -0.218</td> <td> 0.828</td> <td>   -0.537</td> <td>    0.429</td>
+</tr>
+<tr>
+  <th>Q("age_population__18-64_years;_<18_years")[T.True]</th>            <td>    0.5604</td> <td>    0.315</td> <td>    1.779</td> <td> 0.075</td> <td>   -0.057</td> <td>    1.178</td>
+</tr>
+<tr>
+  <th>Q("age_population__65+_years")[T.True]</th>                         <td>   -0.0265</td> <td>    0.412</td> <td>   -0.064</td> <td> 0.949</td> <td>   -0.834</td> <td>    0.781</td>
+</tr>
+<tr>
+  <th>Q("age_population__<18_years")[T.True]</th>                         <td>   -0.1849</td> <td>    0.288</td> <td>   -0.642</td> <td> 0.521</td> <td>   -0.749</td> <td>    0.379</td>
+</tr>
+</table>

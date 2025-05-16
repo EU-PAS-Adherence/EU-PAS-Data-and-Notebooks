@@ -1,0 +1,44 @@
+<table class="simpletable">
+<caption>Logit Regression Results</caption>
+<tr>
+  <th>Dep. Variable:</th>     <td>has_protocol</td>   <th>  No. Observations:  </th>  <td>  2283</td> 
+</tr>
+<tr>
+  <th>Model:</th>                 <td>Logit</td>      <th>  Df Residuals:      </th>  <td>  2278</td> 
+</tr>
+<tr>
+  <th>Method:</th>                 <td>MLE</td>       <th>  Df Model:          </th>  <td>     4</td> 
+</tr>
+<tr>
+  <th>Date:</th>            <td>Fri, 01 Mar 2024</td> <th>  Pseudo R-squ.:     </th> <td>0.002246</td>
+</tr>
+<tr>
+  <th>Time:</th>                <td>18:16:49</td>     <th>  Log-Likelihood:    </th> <td> -1416.0</td>
+</tr>
+<tr>
+  <th>converged:</th>             <td>True</td>       <th>  LL-Null:           </th> <td> -1419.2</td>
+</tr>
+<tr>
+  <th>Covariance Type:</th>     <td>nonrobust</td>    <th>  LLR p-value:       </th>  <td>0.1728</td> 
+</tr>
+</table>
+<table class="simpletable">
+<tr>
+                           <td></td>                              <th>coef</th>     <th>std err</th>      <th>z</th>      <th>P>|z|</th>  <th>[0.025</th>    <th>0.975]</th>  
+</tr>
+<tr>
+  <th>Intercept</th>                                           <td>    0.6542</td> <td>    0.095</td> <td>    6.918</td> <td> 0.000</td> <td>    0.469</td> <td>    0.839</td>
+</tr>
+<tr>
+  <th>Q("number_of_subjects_grouped__1000-10000")[T.True]</th> <td>    0.0716</td> <td>    0.131</td> <td>    0.547</td> <td> 0.584</td> <td>   -0.185</td> <td>    0.328</td>
+</tr>
+<tr>
+  <th>Q("number_of_subjects_grouped__500-<1000")[T.True]</th>  <td>    0.0637</td> <td>    0.166</td> <td>    0.384</td> <td> 0.701</td> <td>   -0.262</td> <td>    0.389</td>
+</tr>
+<tr>
+  <th>Q("number_of_subjects_grouped__<100")[T.True]</th>       <td>    0.1499</td> <td>    0.164</td> <td>    0.915</td> <td> 0.360</td> <td>   -0.171</td> <td>    0.471</td>
+</tr>
+<tr>
+  <th>Q("number_of_subjects_grouped__>10000")[T.True]</th>     <td>    0.2903</td> <td>    0.126</td> <td>    2.311</td> <td> 0.021</td> <td>    0.044</td> <td>    0.537</td>
+</tr>
+</table>

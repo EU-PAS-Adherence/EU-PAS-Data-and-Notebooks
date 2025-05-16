@@ -1,0 +1,44 @@
+<table class="simpletable">
+<caption>Logit Regression Results</caption>
+<tr>
+  <th>Dep. Variable:</th>     <td>has_protocol</td>   <th>  No. Observations:  </th>  <td>  2300</td>  
+</tr>
+<tr>
+  <th>Model:</th>                 <td>Logit</td>      <th>  Df Residuals:      </th>  <td>  2295</td>  
+</tr>
+<tr>
+  <th>Method:</th>                 <td>MLE</td>       <th>  Df Model:          </th>  <td>     4</td>  
+</tr>
+<tr>
+  <th>Date:</th>            <td>Sun, 16 Mar 2025</td> <th>  Pseudo R-squ.:     </th>  <td>0.04933</td> 
+</tr>
+<tr>
+  <th>Time:</th>                <td>21:02:06</td>     <th>  Log-Likelihood:    </th> <td> -1475.3</td> 
+</tr>
+<tr>
+  <th>converged:</th>             <td>True</td>       <th>  LL-Null:           </th> <td> -1551.9</td> 
+</tr>
+<tr>
+  <th>Covariance Type:</th>     <td>nonrobust</td>    <th>  LLR p-value:       </th> <td>4.421e-32</td>
+</tr>
+</table>
+<table class="simpletable">
+<tr>
+                                            <td></td>                                              <th>coef</th>     <th>std err</th>      <th>z</th>      <th>P>|z|</th>  <th>[0.025</th>    <th>0.975]</th>   <th>odds rt</th> <th>[0.025</th> <th>0.975]</th>
+</tr>
+<tr>
+  <th>Intercept</th>                                                                            <td>   -0.2440</td> <td>    0.069</td> <td>   -3.561</td> <td> 0.000</td> <td>   -0.378</td> <td>   -0.110</td> <td>0.7835</td>  <td>0.6851</td> <td>0.8961</td>
+</tr>
+<tr>
+  <th>Q("study_topic_grouped__disease /health_condition")[T.True]</th>                          <td>    0.9194</td> <td>    0.177</td> <td>    5.208</td> <td> 0.000</td> <td>    0.573</td> <td>    1.265</td> <td>2.5078</td>  <td>1.7743</td> <td>3.5446</td>
+</tr>
+<tr>
+  <th>Q("study_topic_grouped__disease /health_condition;_human_medicinal_product")[T.True]</th> <td>    1.0124</td> <td>    0.097</td> <td>   10.408</td> <td> 0.000</td> <td>    0.822</td> <td>    1.203</td> <td>2.7522</td>  <td>2.2745</td> <td>3.3302</td>
+</tr>
+<tr>
+  <th>Q("study_topic_grouped__human_medicinal_product")[T.True]</th>                            <td>    1.4123</td> <td>    0.163</td> <td>    8.669</td> <td> 0.000</td> <td>    1.093</td> <td>    1.732</td> <td>4.1055</td>  <td>2.9833</td> <td>5.6499</td>
+</tr>
+<tr>
+  <th>Q("study_topic_grouped__other")[T.True]</th>                                              <td>    0.3349</td> <td>    0.310</td> <td>    1.082</td> <td> 0.279</td> <td>   -0.272</td> <td>    0.942</td> <td>1.3979</td>  <td>0.7621</td>  <td>2.564</td>
+</tr>
+</table>
