@@ -1,0 +1,14 @@
+                    Logit Regression Results                    
+Dep. Variable:  ,has_result      ,  No. Observations:  ,  1470  
+Model:          ,Logit           ,  Df Residuals:      ,  1465  
+Method:         ,MLE             ,  Df Model:          ,     4  
+Date:           ,Fri, 01 Mar 2024,  Pseudo R-squ.:     ,0.001008
+Time:           ,00:24:11        ,  Log-Likelihood:    , -891.93
+converged:      ,True            ,  LL-Null:           , -892.83
+Covariance Type:,nonrobust       ,  LLR p-value:       ,0.7725  
+                                        ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] 
+Intercept                               ,    0.8498,    0.061,   13.919, 0.000,    0.730,    0.969
+Q("other_population__hepatic_impaired") ,   -0.0603,    0.369,   -0.163, 0.870,   -0.784,    0.663
+Q("other_population__immunocompromised"),   -0.3245,    0.355,   -0.915, 0.360,   -1.020,    0.371
+Q("other_population__pregnant_women")   ,    0.2262,    0.238,    0.949, 0.343,   -0.241,    0.693
+Q("other_population__renal_impaired")   ,    0.2208,    0.312,    0.707, 0.479,   -0.391,    0.832

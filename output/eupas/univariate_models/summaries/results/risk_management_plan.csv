@@ -1,0 +1,15 @@
+                     Logit Regression Results                    
+Dep. Variable:  ,has_result      ,  No. Observations:  ,  1470   
+Model:          ,Logit           ,  Df Residuals:      ,  1464   
+Method:         ,MLE             ,  Df Model:          ,     5   
+Date:           ,Fri, 01 Mar 2024,  Pseudo R-squ.:     ,0.02533  
+Time:           ,18:16:50        ,  Log-Likelihood:    , -870.21 
+converged:      ,True            ,  LL-Null:           , -892.83 
+Covariance Type:,nonrobust       ,  LLR p-value:       ,1.303e-08
+                                                                                                      ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] 
+Intercept                                                                                             ,    0.6860,    0.073,    9.395, 0.000,    0.543,    0.829
+Q("risk_management_plan__eu_rmp_category_1_(imposed_as_condition_of_marketing_authorisation)")[T.True],    1.2950,    0.384,    3.371, 0.001,    0.542,    2.048
+Q("risk_management_plan__eu_rmp_category_2_(specific_obligation_of_marketing_authorisation)")[T.True] ,    1.4540,    0.751,    1.936, 0.053,   -0.018,    2.926
+Q("risk_management_plan__eu_rmp_category_3_(required)")[T.True]                                       ,    0.5814,    0.142,    4.105, 0.000,    0.304,    0.859
+Q("risk_management_plan__non-eu_rmp_only")[T.True]                                                    ,    0.2389,    0.257,    0.930, 0.353,   -0.265,    0.743
+Q("risk_management_plan__nan")[T.True]                                                                ,   -0.6860,    0.257,   -2.672, 0.008,   -1.189,   -0.183

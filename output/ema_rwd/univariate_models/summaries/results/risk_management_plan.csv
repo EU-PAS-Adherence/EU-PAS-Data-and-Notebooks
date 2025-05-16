@@ -1,0 +1,15 @@
+                     Logit Regression Results                    
+Dep. Variable:  ,has_result      ,  No. Observations:  ,  1482   
+Model:          ,Logit           ,  Df Residuals:      ,  1476   
+Method:         ,MLE             ,  Df Model:          ,     5   
+Date:           ,Sun, 16 Mar 2025,  Pseudo R-squ.:     ,0.02717  
+Time:           ,21:02:10        ,  Log-Likelihood:    , -899.15 
+converged:      ,True            ,  LL-Null:           , -924.26 
+Covariance Type:,nonrobust       ,  LLR p-value:       ,1.249e-09
+                                                                                                      ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] ,odds rt,[0.025, 0.975]
+Intercept                                                                                             ,    0.5809,    0.071,    8.137, 0.000,    0.441,    0.721,1.7876 ,1.5542,2.056  
+Q("risk_management_plan__eu_rmp_category_1_(imposed_as_condition_of_marketing_authorisation)")[T.True],    1.5841,    0.405,    3.908, 0.000,    0.790,    2.379,4.8749 ,2.2024,10.7905
+Q("risk_management_plan__eu_rmp_category_2_(specific_obligation_of_marketing_authorisation)")[T.True] ,    1.5592,    0.751,    2.076, 0.038,    0.087,    3.031,4.755  ,1.0913,20.7185
+Q("risk_management_plan__eu_rmp_category_3_(required)")[T.True]                                       ,    0.5615,    0.137,    4.106, 0.000,    0.293,    0.829,1.7532 ,1.3411,2.292  
+Q("risk_management_plan__non-eu_rmp_only")[T.True]                                                    ,    0.2256,    0.251,    0.899, 0.369,   -0.266,    0.717,1.2531 ,0.7663,2.0491 
+Q("risk_management_plan__nan")[T.True]                                                                ,   -0.6476,    0.268,   -2.416, 0.016,   -1.173,   -0.122,0.5233 ,0.3095,0.8849 

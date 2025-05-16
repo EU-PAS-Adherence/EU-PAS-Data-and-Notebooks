@@ -1,0 +1,11 @@
+                     Logit Regression Results                    
+Dep. Variable:  ,has_result      ,  No. Observations:  ,  1482   
+Model:          ,Logit           ,  Df Residuals:      ,  1480   
+Method:         ,MLE             ,  Df Model:          ,     1   
+Date:           ,Sun, 16 Mar 2025,  Pseudo R-squ.:     ,0.01485  
+Time:           ,21:02:10        ,  Log-Likelihood:    , -910.53 
+converged:      ,True            ,  LL-Null:           , -924.26 
+Covariance Type:,nonrobust       ,  LLR p-value:       ,1.605e-07
+                                                            ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] ,odds rt,[0.025,0.975]
+Intercept                                                   ,    0.5505,    0.069,    7.976, 0.000,    0.415,    0.686,1.7341 ,1.5147,1.9853
+Q("number_of_countries_grouped__multiple_countries")[T.True],    0.6163,    0.120,    5.147, 0.000,    0.382,    0.851,1.852  ,1.4646,2.3419

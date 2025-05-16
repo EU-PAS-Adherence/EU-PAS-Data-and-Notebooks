@@ -1,0 +1,723 @@
+kegg_drug_entry_id,atc_code,atc_value,kegg_details_url
+D01206,M04AA03,Febuxostat,https://rest.kegg.jp/get/D01206
+D09675,A16AB11,Taliglucerase alfa,https://rest.kegg.jp/get/D09675
+D09546,B01AF03,Edoxaban,https://rest.kegg.jp/get/D09546
+D07598,G01AF15,Butoconazole,https://rest.kegg.jp/get/D07598
+D10560,L01EM01,Idelalisib,https://rest.kegg.jp/get/D10560
+D00588,J01MA12; S01AE05,Levofloxacin; Levofloxacin,https://rest.kegg.jp/get/D00588
+D09919,L01EX08,Lenvatinib,https://rest.kegg.jp/get/D09919
+D03250,A10AE04,Insulin glargine,https://rest.kegg.jp/get/D03250
+D07080,A10BH02,Vildagliptin,https://rest.kegg.jp/get/D07080
+D07591,N06AX12,Bupropion,https://rest.kegg.jp/get/D07591
+D00903,D11AX18; M01AB05; M02AA15; S01BC03,Diclofenac; Diclofenac; Diclofenac; Diclofenac,https://rest.kegg.jp/get/D00903
+D00537,N03AX11,Topiramate,https://rest.kegg.jp/get/D00537
+D09569,N03AX21,Retigabine,https://rest.kegg.jp/get/D09569
+D01703,R01AD13; R03BA08,Ciclesonide; Ciclesonide,https://rest.kegg.jp/get/D01703
+D00075,G03BA03,Testosterone,https://rest.kegg.jp/get/D00075
+D10557,C10AX13,Evolocumab,https://rest.kegg.jp/get/D10557
+D10576,,,https://rest.kegg.jp/get/D10576
+D06412,C09XA02,Aliskiren,https://rest.kegg.jp/get/D06412
+D10553,J05AP09,Dasabuvir,https://rest.kegg.jp/get/D10553
+D12434,B02BD15,Valoctocogene roxaparvovec,https://rest.kegg.jp/get/D12434
+D00639,C01BB02,Mexiletine,https://rest.kegg.jp/get/D00639
+D03353,B01AB04,Dalteparin,https://rest.kegg.jp/get/D03353
+D00416,A01AB09; A07AC01; D01AC02; G01AF04; J02AB01; S02AA13,Miconazole; Miconazole; Miconazole; Miconazole; Miconazole; Miconazole,https://rest.kegg.jp/get/D00416
+D00273,J05AB12,Cidofovir,https://rest.kegg.jp/get/D00273
+D00585,G03XB01,Mifepristone,https://rest.kegg.jp/get/D00585
+D01606,C01EB15,Trimetazidine,https://rest.kegg.jp/get/D01606
+D07907,L01EB02,Erlotinib,https://rest.kegg.jp/get/D07907
+D03150,L01XG01,Bortezomib,https://rest.kegg.jp/get/D03150
+D02766,N03AG02,Valpromide,https://rest.kegg.jp/get/D02766
+D11516,S01LA09,Faricimab,https://rest.kegg.jp/get/D11516
+D07086,B01AF01,Rivaroxaban,https://rest.kegg.jp/get/D07086
+D11397,L04AX08,Darvadstrocel,https://rest.kegg.jp/get/D11397
+D00423,J05AP01,Ribavirin,https://rest.kegg.jp/get/D00423
+D01132,D05AX05,Tazarotene,https://rest.kegg.jp/get/D01132
+D09727,A10AE06,Insulin degludec,https://rest.kegg.jp/get/D09727
+D00348,D10AD04; D10BA01,Isotretinoin; Isotretinoin,https://rest.kegg.jp/get/D00348
+D02055,,,https://rest.kegg.jp/get/D02055
+D09950,L01EA05,Ponatinib,https://rest.kegg.jp/get/D09950
+D09883,L01EB07,Dacomitinib,https://rest.kegg.jp/get/D09883
+D00252,N03AF01,Carbamazepine,https://rest.kegg.jp/get/D00252
+D12114,J07BN01,"Covid-19, RNA-based vaccine",https://rest.kegg.jp/get/D12114
+D02106,L01XX27,Arsenic trioxide,https://rest.kegg.jp/get/D02106
+D06404,A10BJ02,Liraglutide,https://rest.kegg.jp/get/D06404
+D11595,L01FX15,Belantamab mafodotin,https://rest.kegg.jp/get/D11595
+D10071,L04AC13,Ixekizumab,https://rest.kegg.jp/get/D10071
+D05201,B02BD04,Coagulation factor IX,https://rest.kegg.jp/get/D05201
+D04603,L01FX04,Ipilimumab,https://rest.kegg.jp/get/D04603
+D10936,N02CD02,Galcanezumab,https://rest.kegg.jp/get/D10936
+D10749,N07XX11,Pitolisant,https://rest.kegg.jp/get/D10749
+D09731,L01ED01,Crizotinib,https://rest.kegg.jp/get/D09731
+D11769,N05AH05,Asenapine,https://rest.kegg.jp/get/D11769
+D02064,M03BX03,Pridinol,https://rest.kegg.jp/get/D02064
+D00341,L01XX05,Hydroxycarbamide,https://rest.kegg.jp/get/D00341
+D05446,L01FD02,Pertuzumab,https://rest.kegg.jp/get/D05446
+D08281,G03DB04,Nomegestrol,https://rest.kegg.jp/get/D08281
+D10338,N02CC08,Lasmiditan,https://rest.kegg.jp/get/D10338
+D10846,B03XA01,Erythropoietin,https://rest.kegg.jp/get/D10846
+D00217,N02BE01,Paracetamol,https://rest.kegg.jp/get/D00217
+D09394,A07AA12,Fidaxomicin,https://rest.kegg.jp/get/D09394
+D03505,H05BX01,Cinacalcet,https://rest.kegg.jp/get/D03505
+D10127,A16AX09,Glycerol phenylbutyrate,https://rest.kegg.jp/get/D10127
+D07917,A02BC05,Esomeprazole,https://rest.kegg.jp/get/D07917
+D00088,A01AC03; A07EA02; C05AA01; D07AA02; D07XA01; H02AB09; S01BA02; S01CB03; S02BA01,Hydrocortisone; Hydrocortisone; Hydrocortisone; Hydrocortisone; Hydrocortisone; Hydrocortisone; Hydrocortisone; Hydrocortisone; Hydrocortisone,https://rest.kegg.jp/get/D00088
+D02934,L04AC03,Anakinra,https://rest.kegg.jp/get/D02934
+D08803,,,https://rest.kegg.jp/get/D08803
+D00891,J05AF06,Abacavir,https://rest.kegg.jp/get/D00891
+D08043,D03AX05; M09AX01; R01AX09; S01KA01,Hyaluronic acid; Hyaluronic acid; Hyaluronic acid; Hyaluronic acid,https://rest.kegg.jp/get/D08043
+D10781,D11AX24,Deoxycholic acid,https://rest.kegg.jp/get/D10781
+D10223,L01EL01,Ibrutinib,https://rest.kegg.jp/get/D10223
+D09980,L01FD03,Trastuzumab emtansine,https://rest.kegg.jp/get/D09980
+D11144,L01XL03,Axicabtagene ciloleucel,https://rest.kegg.jp/get/D11144
+D03673,,,https://rest.kegg.jp/get/D03673
+D02815,D11AH04; L01XF02,Alitretinoin; Alitretinoin,https://rest.kegg.jp/get/D02815
+D10676,H05BX04,Etelcalcetide,https://rest.kegg.jp/get/D10676
+D07450,C08CA01,Amlodipine,https://rest.kegg.jp/get/D07450
+D09674,N07XX08,Tafamidis,https://rest.kegg.jp/get/D09674
+D01111,A10BX03,Nateglinide,https://rest.kegg.jp/get/D01111
+D08233,N02AA01,Morphine,https://rest.kegg.jp/get/D08233
+D11472,J05AB16,Remdesivir,https://rest.kegg.jp/get/D11472
+D07969,B01AA12,Fluindione,https://rest.kegg.jp/get/D07969
+D10831,B02BD02,Coagulation factor VIII,https://rest.kegg.jp/get/D10831
+D10603,V01AA03,House dust mites,https://rest.kegg.jp/get/D10603
+D04666,H01CB03,Lanreotide,https://rest.kegg.jp/get/D04666
+D08378,A10BG03,Pioglitazone,https://rest.kegg.jp/get/D08378
+D11880,L01XL06,Brexucabtagene autoleucel,https://rest.kegg.jp/get/D11880
+D07486,J01FA10; S01AA26,Azithromycin; Azithromycin,https://rest.kegg.jp/get/D07486
+D09317,N02BG10,Cannabinoids,https://rest.kegg.jp/get/D09317
+D00379,A10BB05,Tolazamide,https://rest.kegg.jp/get/D00379
+D05428,C05BA04; G04BX15,Pentosan polysulfate sodium; Pentosan polysulfate sodium,https://rest.kegg.jp/get/D05428
+D12066,L04AC22,Spesolimab,https://rest.kegg.jp/get/D12066
+D00593,A10BB12,Glimepiride,https://rest.kegg.jp/get/D00593
+D08144,A07DA03,Loperamide,https://rest.kegg.jp/get/D08144
+D04616,B03AB02,Saccharated iron oxide,https://rest.kegg.jp/get/D04616
+D10909,,,https://rest.kegg.jp/get/D10909
+D08443,C07AA05,Propranolol,https://rest.kegg.jp/get/D08443
+D03162,D03BA03; M09AB03,Bromelains; Bromelains,https://rest.kegg.jp/get/D03162
+D07659,J01DD04,Ceftriaxone,https://rest.kegg.jp/get/D07659
+D00161,L01BB02,Mercaptopurine,https://rest.kegg.jp/get/D00161
+D07662,R06AE07; S01GX12,Cetirizine; Cetirizine,https://rest.kegg.jp/get/D07662
+D01296,N06BA04,Methylphenidate,https://rest.kegg.jp/get/D01296
+D01368,G03HA01,Cyproterone,https://rest.kegg.jp/get/D01368
+D02358,C07AB02,Metoprolol,https://rest.kegg.jp/get/D02358
+D06274,S01EE05,Tafluprost,https://rest.kegg.jp/get/D06274
+D10481,L01EX09,Nintedanib,https://rest.kegg.jp/get/D10481
+D04316,,,https://rest.kegg.jp/get/D04316
+D07984,N06AB08,Fluvoxamine,https://rest.kegg.jp/get/D07984
+D10814,,,https://rest.kegg.jp/get/D10814
+D10699,A05AA03,Cholic acid,https://rest.kegg.jp/get/D10699
+D01750,N06BX13,Idebenone,https://rest.kegg.jp/get/D01750
+D09872,J04AK05,Bedaquiline,https://rest.kegg.jp/get/D09872
+D00203,A01AB04; A07AA07; G01AA03; J02AA01,Amphotericin B; Amphotericin B; Amphotericin B; Amphotericin B,https://rest.kegg.jp/get/D00203
+D07896,J05AF10,Entecavir,https://rest.kegg.jp/get/D07896
+D05218,L04AG08,Ocrelizumab,https://rest.kegg.jp/get/D05218
+D11971,J07BN01,"Covid-19, RNA-based vaccine",https://rest.kegg.jp/get/D11971
+D00163,A05AA01,Chenodeoxycholic acid,https://rest.kegg.jp/get/D00163
+D05312,N02AA05,Oxycodone,https://rest.kegg.jp/get/D05312
+D01583,L04AX05,Pirfenidone,https://rest.kegg.jp/get/D01583
+D03062,G03XC02,Bazedoxifene,https://rest.kegg.jp/get/D03062
+D02362,N06AB05,Paroxetine,https://rest.kegg.jp/get/D02362
+D02598,L04AB02,Infliximab,https://rest.kegg.jp/get/D02598
+D00754,L04AX02,Thalidomide,https://rest.kegg.jp/get/D00754
+D05457,B01AA04,Phenprocoumon,https://rest.kegg.jp/get/D05457
+D10532,B02BD11,Catridecacog,https://rest.kegg.jp/get/D10532
+D04318,L03AX13,Glatiramer acetate,https://rest.kegg.jp/get/D04318
+D00018,A11GA01; G01AD03; S01XA15,Ascorbic acid (vit C); Ascorbic acid; Ascorbic acid,https://rest.kegg.jp/get/D00018
+D07144,B01AE07,Dabigatran etexilate,https://rest.kegg.jp/get/D07144
+D04999,N06BA04,Methylphenidate,https://rest.kegg.jp/get/D04999
+D03259,L01FX02,Gemtuzumab ozogamicin,https://rest.kegg.jp/get/D03259
+D08778,J07BC02,"Hepatitis A, inactivated, whole virus",https://rest.kegg.jp/get/D08778
+D00578,J02AC03,Voriconazole,https://rest.kegg.jp/get/D00578
+D04358,L04AB06,Golimumab,https://rest.kegg.jp/get/D04358
+D10744,R03AL06; R03BB54,"Olodaterol and tiotropium bromide; Tiotropium bromide, combinations",https://rest.kegg.jp/get/D10744
+D08409,A14AA07; G03XX01,Prasterone; Prasterone,https://rest.kegg.jp/get/D08409
+D08516,A10BH01,Sitagliptin,https://rest.kegg.jp/get/D08516
+D00202,A07AA02; D01AA01; G01AA01,Nystatin; Nystatin; Nystatin,https://rest.kegg.jp/get/D00202
+D00529,R03DC03,Montelukast,https://rest.kegg.jp/get/D00529
+D00752,L04AA06,Mycophenolic acid,https://rest.kegg.jp/get/D00752
+D10468,A16AA04,Mercaptamine,https://rest.kegg.jp/get/D10468
+D08229,R03DC03,Montelukast,https://rest.kegg.jp/get/D08229
+D10847,B03XA01,Erythropoietin,https://rest.kegg.jp/get/D10847
+D03441,L04AB05,Certolizumab pegol,https://rest.kegg.jp/get/D03441
+D10777,L01FC01,Daratumumab,https://rest.kegg.jp/get/D10777
+D07793,N06AX23,Desvenlafaxine,https://rest.kegg.jp/get/D07793
+D08306,J05AH02,Oseltamivir,https://rest.kegg.jp/get/D08306
+D00904,D11AX18; M01AB05; M02AA15; S01BC03,Diclofenac; Diclofenac; Diclofenac; Diclofenac,https://rest.kegg.jp/get/D00904
+D02049,A07AA10; J01XB01,Colistin; Colistin,https://rest.kegg.jp/get/D02049
+D01708,D07AC17; R01AD08; R03BA05,Fluticasone; Fluticasone; Fluticasone,https://rest.kegg.jp/get/D01708
+D05177,A16AX04,Nitisinone,https://rest.kegg.jp/get/D05177
+D01810,C01DX16,Nicorandil,https://rest.kegg.jp/get/D01810
+D02910,C01BD01,Amiodarone,https://rest.kegg.jp/get/D02910
+D07979,N02BG07,Flupirtine,https://rest.kegg.jp/get/D07979
+D10759,B02BD02,Coagulation factor VIII,https://rest.kegg.jp/get/D10759
+D10191,N04BD03,Safinamide,https://rest.kegg.jp/get/D10191
+D09575,J05AX23,Ibalizumab,https://rest.kegg.jp/get/D09575
+D03208,C09XA02,Aliskiren,https://rest.kegg.jp/get/D03208
+D09894,A16AX10,Eliglustat,https://rest.kegg.jp/get/D09894
+D10064,L01EC02,Dabrafenib,https://rest.kegg.jp/get/D10064
+D03211,J02AX06,Anidulafungin,https://rest.kegg.jp/get/D03211
+D10066,J05AJ03,Dolutegravir,https://rest.kegg.jp/get/D10066
+D03203,L04AA24,Abatacept,https://rest.kegg.jp/get/D03203
+D01138,P03AX01,Benzyl benzoate,https://rest.kegg.jp/get/D01138
+D03365,N07BA01,Nicotine,https://rest.kegg.jp/get/D03365
+D02367,G03AC09,Desogestrel,https://rest.kegg.jp/get/D02367
+D11757,L04AG10,Inebilizumab,https://rest.kegg.jp/get/D11757
+D03235,L03AA02,Filgrastim,https://rest.kegg.jp/get/D03235
+D03252,L01EA04,Bosutinib,https://rest.kegg.jp/get/D03252
+D02735,M03AX01,Botulinum toxin,https://rest.kegg.jp/get/D02735
+D10442,,,https://rest.kegg.jp/get/D10442
+D01125,D05AX02,Calcipotriol,https://rest.kegg.jp/get/D01125
+D09371,L01FG02,Ramucirumab,https://rest.kegg.jp/get/D09371
+D04347,,,https://rest.kegg.jp/get/D04347
+D00400,C09CA03,Valsartan,https://rest.kegg.jp/get/D00400
+D02366,P01BA01,Chloroquine,https://rest.kegg.jp/get/D02366
+D11093,L04AJ05,Avacopan,https://rest.kegg.jp/get/D11093
+D12315,L01XL05,Ciltacabtagene autoleucel,https://rest.kegg.jp/get/D12315
+D02995,N05AH05,Asenapine,https://rest.kegg.jp/get/D02995
+D12174,,,https://rest.kegg.jp/get/D12174
+D11029,V03AB38,Andexanet alfa,https://rest.kegg.jp/get/D11029
+D09893,A16AX10,Eliglustat,https://rest.kegg.jp/get/D09893
+D10001,L04AE01,Fingolimod,https://rest.kegg.jp/get/D10001
+D08860,L04AA32,Apremilast,https://rest.kegg.jp/get/D08860
+D09612,N03AF04,Eslicarbazepine,https://rest.kegg.jp/get/D09612
+D02968,A04AD12,Aprepitant,https://rest.kegg.jp/get/D02968
+D09994,B01AC27,Selexipag,https://rest.kegg.jp/get/D09994
+D03304,L03AB02,Interferon beta natural,https://rest.kegg.jp/get/D03304
+D11744,A16AB22,Avalglucosidase alfa,https://rest.kegg.jp/get/D11744
+D07416,V03AC02,Deferiprone,https://rest.kegg.jp/get/D07416
+D04104,G03AC08,Etonogestrel,https://rest.kegg.jp/get/D04104
+D03165,G02CB01; N04BC01,Bromocriptine; Bromocriptine,https://rest.kegg.jp/get/D03165
+D04475,A10AB05; A10AD05,Insulin aspart; Insulin aspart,https://rest.kegg.jp/get/D04475
+D08120,J01MA12; S01AE05,Levofloxacin; Levofloxacin,https://rest.kegg.jp/get/D08120
+D07510,B01AB01; B01AB12; C05BA03; S01XA14,Heparin; Bemiparin; Heparin; Heparin,https://rest.kegg.jp/get/D07510
+D08514,G04BE03,Sildenafil,https://rest.kegg.jp/get/D08514
+D11252,P01CA03,Fexinidazole,https://rest.kegg.jp/get/D11252
+D05597,B01AC22,Prasugrel,https://rest.kegg.jp/get/D05597
+D05096,L04AA06,Mycophenolic acid,https://rest.kegg.jp/get/D05096
+D06177,A10BB03; V04CA01,Tolbutamide; Tolbutamide,https://rest.kegg.jp/get/D06177
+D01203,B05CB04; B05XA02,Sodium bicarbonate; Sodium bicarbonate,https://rest.kegg.jp/get/D01203
+D01844,B01AX05,Fondaparinux,https://rest.kegg.jp/get/D01844
+D03799,G03DB08,Dienogest,https://rest.kegg.jp/get/D03799
+D08668,G04BE09,Vardenafil,https://rest.kegg.jp/get/D08668
+D09566,A10BH05,Linagliptin,https://rest.kegg.jp/get/D09566
+D00689,A07EA07; D07AC15; R01AD01; R03BA01,Beclometasone; Beclometasone; Beclometasone; Beclometasone,https://rest.kegg.jp/get/D00689
+D11052,L04AC18,Risankizumab,https://rest.kegg.jp/get/D11052
+D10885,H05AA04,Abaloparatide,https://rest.kegg.jp/get/D10885
+D10181,R03BB07,Umeclidinium bromide,https://rest.kegg.jp/get/D10181
+D05544,J07BF01,"Poliomyelitis oral, monovalent, live attenuated",https://rest.kegg.jp/get/D05544
+D11190,M05BX07,Vosoritide,https://rest.kegg.jp/get/D11190
+D08990,B02BX04,Romiplostim,https://rest.kegg.jp/get/D08990
+D02114,P01BA02,Hydroxychloroquine,https://rest.kegg.jp/get/D02114
+D06514,,,https://rest.kegg.jp/get/D06514
+D09916,R07AX02,Ivacaftor,https://rest.kegg.jp/get/D09916
+D08524,L01EX02,Sorafenib,https://rest.kegg.jp/get/D08524
+D04548,A10AB03; A10AC03; A10AD03; A10AE03,Insulin (pork); Insulin (pork); Insulin (pork); Insulin (pork),https://rest.kegg.jp/get/D04548
+D03504,H05BX01,Cinacalcet,https://rest.kegg.jp/get/D03504
+D11938,,,https://rest.kegg.jp/get/D11938
+D10438,L04AC16,Guselkumab,https://rest.kegg.jp/get/D10438
+D06216,A01AC01; C05AA12; D07AB09; D07XB02; H02AB08; R01AD11; R03BA06; S01BA05,Triamcinolone; Triamcinolone; Triamcinolone; Triamcinolone; Triamcinolone; Triamcinolone; Triamcinolone; Triamcinolone,https://rest.kegg.jp/get/D06216
+D08879,N03AX23,Brivaracetam,https://rest.kegg.jp/get/D08879
+D03136,B01AE06,Bivalirudin,https://rest.kegg.jp/get/D03136
+D00960,L02BG03,Anastrozole,https://rest.kegg.jp/get/D00960
+D01370,L01BB04; L04AA40,Cladribine; Cladribine,https://rest.kegg.jp/get/D01370
+D10459,A10BK03,Empagliflozin,https://rest.kegg.jp/get/D10459
+D03207,A16AB07,Alglucosidase alfa,https://rest.kegg.jp/get/D03207
+D00561,N05AE03,Sertindole,https://rest.kegg.jp/get/D00561
+D11925,A16AX18,Lumasiran,https://rest.kegg.jp/get/D11925
+D03669,V03AC03,Deferasirox,https://rest.kegg.jp/get/D03669
+D00409,A01AB17; D06BX01; G01AF01; J01XD01; P01AB01,Metronidazole; Metronidazole; Metronidazole; Metronidazole; Metronidazole,https://rest.kegg.jp/get/D00409
+D08964,N03AX22,Perampanel,https://rest.kegg.jp/get/D08964
+D10940,N07XX15,Inotersen,https://rest.kegg.jp/get/D10940
+D10131,L01XG03,Ixazomib,https://rest.kegg.jp/get/D10131
+D03230,A10AB01; A10AC01; A10AD01; A10AE01; A10AF01,Insulin (human); Insulin (human); Insulin (human); Insulin (human); Insulin (human),https://rest.kegg.jp/get/D03230
+D10511,D02BB02,Afamelanotide,https://rest.kegg.jp/get/D10511
+D10062,L01EX07,Cabozantinib,https://rest.kegg.jp/get/D10062
+D00094,D10AD01; L01XF01,Tretinoin; Tretinoin,https://rest.kegg.jp/get/D00094
+D01223,L01BC06,Capecitabine,https://rest.kegg.jp/get/D01223
+D10928,N02CD01,Erenumab,https://rest.kegg.jp/get/D10928
+D00407,D07AA01; D10AA02; H02AB04,Methylprednisolone; Methylprednisolone; Methylprednisolone,https://rest.kegg.jp/get/D00407
+D07222,G03DB04,Nomegestrol,https://rest.kegg.jp/get/D07222
+D11033,V10XX04,Lutetium (177Lu) oxodotreotide,https://rest.kegg.jp/get/D11033
+D11194,H01AC07,Somapacitan,https://rest.kegg.jp/get/D11194
+D05655,,,https://rest.kegg.jp/get/D05655
+D10333,A16AB12,Elosulfase alfa,https://rest.kegg.jp/get/D10333
+D11486,H01AC09,Lonapegsomatropin,https://rest.kegg.jp/get/D11486
+D01112,D10AD03,Adapalene,https://rest.kegg.jp/get/D01112
+D10359,A16AX14,Migalastat,https://rest.kegg.jp/get/D10359
+D08224,L01DB07,Mitoxantrone,https://rest.kegg.jp/get/D08224
+D09998,B03XA03,Methoxy polyethylene glycol-epoetin beta,https://rest.kegg.jp/get/D09998
+D12244,,,https://rest.kegg.jp/get/D12244
+D05251,R03DX05,Omalizumab,https://rest.kegg.jp/get/D05251
+D00238,L04AX01,Azathioprine,https://rest.kegg.jp/get/D00238
+D10679,L01XX52,Venetoclax,https://rest.kegg.jp/get/D10679
+D06347,J07BL01,"Yellow fever, live attenuated",https://rest.kegg.jp/get/D06347
+D09783,L04AF01,Tofacitinib,https://rest.kegg.jp/get/D09783
+D06552,S01GX11,Alcaftadine,https://rest.kegg.jp/get/D06552
+D00554,G03CA01; L02AA03,Ethinylestradiol; Ethinylestradiol,https://rest.kegg.jp/get/D00554
+D09314,L01FA02; L04AG12,Ofatumumab; Ofatumumab,https://rest.kegg.jp/get/D09314
+D08113,L02AE02,Leuprorelin,https://rest.kegg.jp/get/D08113
+D08690,N05CF02,Zolpidem,https://rest.kegg.jp/get/D08690
+D00710,N03AG01,Valproic acid,https://rest.kegg.jp/get/D00710
+D11931,C10AX16,Inclisiran,https://rest.kegg.jp/get/D11931
+D03684,M05BX04,Denosumab,https://rest.kegg.jp/get/D03684
+D08133,N05AN01,Lithium,https://rest.kegg.jp/get/D08133
+D10119,L01XJ02,Sonidegib,https://rest.kegg.jp/get/D10119
+D07766,G03HA01,Cyproterone,https://rest.kegg.jp/get/D07766
+D11943,J05AB18,Molnupiravir,https://rest.kegg.jp/get/D11943
+D04226,N02BG07,Flupirtine,https://rest.kegg.jp/get/D04226
+D08901,L02BX02,Degarelix,https://rest.kegg.jp/get/D08901
+D05459,A08AA01,Phentermine,https://rest.kegg.jp/get/D05459
+D01764,D07AC06; D07XC04,Diflucortolone; Diflucortolone,https://rest.kegg.jp/get/D01764
+D00145,J01EA01,Trimethoprim,https://rest.kegg.jp/get/D00145
+D11648,C10AX18,Volanesorsen,https://rest.kegg.jp/get/D11648
+D04923,R03DX09,Mepolizumab,https://rest.kegg.jp/get/D04923
+D08876,J05AP03,Boceprevir,https://rest.kegg.jp/get/D08876
+D07385,R05DA08,Pholcodine,https://rest.kegg.jp/get/D07385
+D09017,B01AC24,Ticagrelor,https://rest.kegg.jp/get/D09017
+D01498,,,https://rest.kegg.jp/get/D01498
+D01213,C03XA01,Tolvaptan,https://rest.kegg.jp/get/D01213
+D03231,B03XA01,Erythropoietin,https://rest.kegg.jp/get/D03231
+D10366,J05AP08,Sofosbuvir,https://rest.kegg.jp/get/D10366
+D00544,N02BG09,Methoxyflurane,https://rest.kegg.jp/get/D00544
+D07866,L01CD02,Docetaxel,https://rest.kegg.jp/get/D07866
+D00335,A10BB07,Glipizide,https://rest.kegg.jp/get/D00335
+D02435,D06BA06; J01ED07,Sulfamerazine; Sulfamerazine,https://rest.kegg.jp/get/D02435
+D00823,N06AB03,Fluoxetine,https://rest.kegg.jp/get/D00823
+D05113,N07BB04,Naltrexone,https://rest.kegg.jp/get/D05113
+D09701,L02BX03,Abiraterone,https://rest.kegg.jp/get/D09701
+D05962,V08DA05,"Sulfur hexafluoride, phospholipid microspheres",https://rest.kegg.jp/get/D05962
+D08953,L01EA03,Nilotinib,https://rest.kegg.jp/get/D08953
+D06078,H05AA02,Teriparatide,https://rest.kegg.jp/get/D06078
+D10689,N07XX05,Amifampridine,https://rest.kegg.jp/get/D10689
+D11993,,,https://rest.kegg.jp/get/D11993
+D00271,A10BB02,Chlorpropamide,https://rest.kegg.jp/get/D00271
+D05401,B02BD02,Coagulation factor VIII,https://rest.kegg.jp/get/D05401
+D00001,,,https://rest.kegg.jp/get/D00001
+D09592,A10BK02,Canagliflozin,https://rest.kegg.jp/get/D09592
+D12129,J07BN02,"Covid-19, viral vector, non-replicating",https://rest.kegg.jp/get/D12129
+D06315,D07AC17; R01AD08; R01AD12; R03BA05; R03BA09,Fluticasone; Fluticasone; Fluticasone furoate; Fluticasone; Fluticasone furoate,https://rest.kegg.jp/get/D06315
+D02597,L04AB04,Adalimumab,https://rest.kegg.jp/get/D02597
+D07971,N07CA03,Flunarizine,https://rest.kegg.jp/get/D07971
+D07165,C01EB17,Ivabradine,https://rest.kegg.jp/get/D07165
+D08985,R03DX08,Reslizumab,https://rest.kegg.jp/get/D08985
+D03917,G03AC10,Drospirenone,https://rest.kegg.jp/get/D03917
+D03305,L03AB01,Interferon alfa natural,https://rest.kegg.jp/get/D03305
+D02747,L03AB11,Peginterferon alfa-2a,https://rest.kegg.jp/get/D02747
+D02924,,,https://rest.kegg.jp/get/D02924
+D10372,L01EF01,Palbociclib,https://rest.kegg.jp/get/D10372
+D03218,L01EK01,Axitinib,https://rest.kegg.jp/get/D03218
+D07132,N02AE01; N07BC01,Buprenorphine; Buprenorphine,https://rest.kegg.jp/get/D07132
+D11713,L01EX22,Selpercatinib,https://rest.kegg.jp/get/D11713
+D11990,L01XL08,Lisocabtagene maraleucel,https://rest.kegg.jp/get/D11990
+D02716,N02BF02,Pregabalin,https://rest.kegg.jp/get/D02716
+D07119,M05BA04,Alendronic acid,https://rest.kegg.jp/get/D07119
+D09666,L01EE04,Selumetinib,https://rest.kegg.jp/get/D09666
+D10156,M05BX06,Romosozumab,https://rest.kegg.jp/get/D10156
+D07704,N06AB04,Citalopram,https://rest.kegg.jp/get/D07704
+D07990,R03AC13; R03CC15,Formoterol; Formoterol,https://rest.kegg.jp/get/D07990
+D03021,L01BC07,Azacitidine,https://rest.kegg.jp/get/D03021
+D08886,J01DI01,Ceftobiprole medocaril,https://rest.kegg.jp/get/D08886
+D02008,G04BE08,Tadalafil,https://rest.kegg.jp/get/D02008
+D10140,L01XK02,Niraparib,https://rest.kegg.jp/get/D10140
+D03820,G04CB02,Dutasteride,https://rest.kegg.jp/get/D03820
+D06074,,,https://rest.kegg.jp/get/D06074
+D01798,A16AX07,Sapropterin,https://rest.kegg.jp/get/D01798
+D10148,,,https://rest.kegg.jp/get/D10148
+D10147,H01CB05,Pasireotide,https://rest.kegg.jp/get/D10147
+D00298,C01AA05,Digoxin,https://rest.kegg.jp/get/D00298
+D11702,A16AX16,Givosiran,https://rest.kegg.jp/get/D11702
+D07448,N06AA09,Amitriptyline,https://rest.kegg.jp/get/D07448
+D00291,H01BA02,Desmopressin,https://rest.kegg.jp/get/D00291
+D03257,L01FD01,Trastuzumab,https://rest.kegg.jp/get/D03257
+D10624,J05AG06,Doravirine,https://rest.kegg.jp/get/D10624
+D09710,B01AF03,Edoxaban,https://rest.kegg.jp/get/D09710
+D09012,J05AP02,Telaprevir,https://rest.kegg.jp/get/D09012
+D07444,A08AA03,Amfepramone,https://rest.kegg.jp/get/D07444
+D10884,,,https://rest.kegg.jp/get/D10884
+D09669,L04AC11,Siltuximab,https://rest.kegg.jp/get/D09669
+D10625,J05AP10,Elbasvir,https://rest.kegg.jp/get/D10625
+D10184,N06AX26,Vortioxetine,https://rest.kegg.jp/get/D10184
+D08079,A11HA07,Inositol,https://rest.kegg.jp/get/D08079
+D03228,A16AB04,Agalsidase beta,https://rest.kegg.jp/get/D03228
+D06458,J06BA01,"Immunoglobulins, normal human, for extravascular adm.",https://rest.kegg.jp/get/D06458
+D10559,L01FX06,Dinutuximab beta,https://rest.kegg.jp/get/D10559
+D04127,N07XX07,Fampridine,https://rest.kegg.jp/get/D04127
+D11028,S01XA24,Cenegermin,https://rest.kegg.jp/get/D11028
+D05277,R03AC13; R03CC15,Formoterol; Formoterol,https://rest.kegg.jp/get/D05277
+D11798,A16AB23,Cipaglucosidase alfa,https://rest.kegg.jp/get/D11798
+D10732,L01XK04,Talazoparib,https://rest.kegg.jp/get/D10732
+D09347,B02BX09,Fostamatinib,https://rest.kegg.jp/get/D09347
+D08770,V01AA20,Various,https://rest.kegg.jp/get/D08770
+D06057,J01XA03,Telavancin,https://rest.kegg.jp/get/D06057
+D05987,G03CA57,Conjugated estrogens,https://rest.kegg.jp/get/D05987
+D06886,L04AG03,Natalizumab,https://rest.kegg.jp/get/D06886
+D08465,G03XC01,Raloxifene,https://rest.kegg.jp/get/D08465
+D01446,A02AA01; A06AD01,Magnesium carbonate; Magnesium carbonate,https://rest.kegg.jp/get/D01446
+D11460,L04AE03,Siponimod,https://rest.kegg.jp/get/D11460
+D00293,N05BA01,Diazepam,https://rest.kegg.jp/get/D00293
+D02095,N07BB04,Naltrexone,https://rest.kegg.jp/get/D02095
+D08002,R02AB03,Fusafungine,https://rest.kegg.jp/get/D08002
+D10595,A16AB13,Asfotase alfa,https://rest.kegg.jp/get/D10595
+D00435,J05AG01,Nevirapine,https://rest.kegg.jp/get/D00435
+D11400,D11AH08,Abrocitinib,https://rest.kegg.jp/get/D11400
+D00564,B01AA03,Warfarin,https://rest.kegg.jp/get/D00564
+D00281,C02AC01; N02CX02; S01EA04,Clonidine; Clonidine; Clonidine,https://rest.kegg.jp/get/D00281
+D02714,L01EG02; L04AH02,Everolimus; Everolimus,https://rest.kegg.jp/get/D02714
+D10741,V03AB37,Idarucizumab,https://rest.kegg.jp/get/D10741
+D07423,B01AX01,Defibrotide,https://rest.kegg.jp/get/D07423
+D10313,A10BK04,Ertugliflozin,https://rest.kegg.jp/get/D10313
+D12500,B02BD16,Etranacogene dezaparvovec,https://rest.kegg.jp/get/D12500
+D00246,A07EA06; D07AC09; R01AD05; R03BA02,Budesonide; Budesonide; Budesonide; Budesonide,https://rest.kegg.jp/get/D00246
+D09889,A10BJ05,Dulaglutide,https://rest.kegg.jp/get/D09889
+D00732,N01BA04; S01HA08,Chloroprocaine; Chloroprocaine,https://rest.kegg.jp/get/D00732
+D03335,B05AA07,Hydroxyethylstarch,https://rest.kegg.jp/get/D03335
+D09574,L01XX44; S01LA05,Aflibercept; Aflibercept,https://rest.kegg.jp/get/D09574
+D10643,,,https://rest.kegg.jp/get/D10643
+D10400,L04AC17,Tildrakizumab,https://rest.kegg.jp/get/D10400
+D00321,D11AX10; G04CB01,Finasteride; Finasteride,https://rest.kegg.jp/get/D00321
+D10405,L01EE02,Cobimetinib,https://rest.kegg.jp/get/D10405
+D12014,J06BD05,Sotrovimab,https://rest.kegg.jp/get/D12014
+D10316,L01FF01,Nivolumab,https://rest.kegg.jp/get/D10316
+D00304,N03AG01,Valproic acid,https://rest.kegg.jp/get/D00304
+D06889,L03AA13,Pegfilgrastim,https://rest.kegg.jp/get/D06889
+D11927,A08AA12,Setmelanotide,https://rest.kegg.jp/get/D11927
+D02537,C01BD07,Dronedarone,https://rest.kegg.jp/get/D02537
+D07729,B01AC04,Clopidogrel,https://rest.kegg.jp/get/D07729
+D05111,N07BB05,Nalmefene,https://rest.kegg.jp/get/D05111
+D10653,L04AF06,Peficitinib,https://rest.kegg.jp/get/D10653
+D01079,J01AA12,Tigecycline,https://rest.kegg.jp/get/D01079
+D09214,L04AC05,Ustekinumab,https://rest.kegg.jp/get/D09214
+D01648,A03BA03,Hyoscyamine,https://rest.kegg.jp/get/D01648
+D07654,J01DD02,Ceftazidime,https://rest.kegg.jp/get/D07654
+D02147,R03AC02; R03CC02,Salbutamol; Salbutamol,https://rest.kegg.jp/get/D02147
+D00584,L01BC02,Fluorouracil,https://rest.kegg.jp/get/D00584
+D07929,R05DA01; S01XA06,Ethylmorphine; Ethylmorphine,https://rest.kegg.jp/get/D07929
+D00458,N05AH04,Quetiapine,https://rest.kegg.jp/get/D00458
+D10135,C02KX04,Macitentan,https://rest.kegg.jp/get/D10135
+D01982,J05AF07,Tenofovir disoproxil,https://rest.kegg.jp/get/D01982
+D00345,C03BA11,Indapamide,https://rest.kegg.jp/get/D00345
+D00292,A01AC02; C05AA09; D07AB19; D07XB05; D10AA03; H02AB02; R01AD03; S01BA01; S01CB01; S02BA06; S03BA01,Dexamethasone; Dexamethasone; Dexamethasone; Dexamethasone; Dexamethasone; Dexamethasone; Dexamethasone; Dexamethasone; Dexamethasone; Dexamethasone; Dexamethasone,https://rest.kegg.jp/get/D00292
+D08083,L04AG05,Vedolizumab,https://rest.kegg.jp/get/D08083
+D09325,L01FX07,Blinatumomab,https://rest.kegg.jp/get/D09325
+D07276,M03BX05,Thiocolchicoside,https://rest.kegg.jp/get/D07276
+D11302,J01DI04,Cefiderocol,https://rest.kegg.jp/get/D11302
+D00181,B01AE03,Argatroban,https://rest.kegg.jp/get/D00181
+D03742,R05DA09,Dextromethorphan,https://rest.kegg.jp/get/D03742
+D08541,,,https://rest.kegg.jp/get/D08541
+D10968,L04AE02,Ozanimod,https://rest.kegg.jp/get/D10968
+D10242,L03AA14,Lipegfilgrastim,https://rest.kegg.jp/get/D10242
+D11303,N02CD05,Eptinezumab,https://rest.kegg.jp/get/D11303
+D11215,L04AE04,Ponesimod,https://rest.kegg.jp/get/D11215
+D10773,L01FF05,Atezolizumab,https://rest.kegg.jp/get/D10773
+D00380,A10BB03; V04CA01,Tolbutamide; Tolbutamide,https://rest.kegg.jp/get/D00380
+D08759,V09GA04,Technetium (99mTc) human albumin,https://rest.kegg.jp/get/D08759
+D09724,L01EB03,Afatinib,https://rest.kegg.jp/get/D09724
+D05340,N05AX13,Paliperidone,https://rest.kegg.jp/get/D05340
+D00659,R01AC03; R06AX19; S01GX07,Azelastine; Azelastine; Azelastine,https://rest.kegg.jp/get/D00659
+D04966,A10BA02,Metformin,https://rest.kegg.jp/get/D04966
+D08682,B01AA03,Warfarin,https://rest.kegg.jp/get/D08682
+D03222,L04AA28,Belatacept,https://rest.kegg.jp/get/D03222
+D11530,L04AJ04,Sutimlimab,https://rest.kegg.jp/get/D11530
+D02554,A07AA11; D06AX11,Rifaximin; Rifaximin,https://rest.kegg.jp/get/D02554
+D01363,L01XA02,Carboplatin,https://rest.kegg.jp/get/D01363
+D08552,L01EX01,Sunitinib,https://rest.kegg.jp/get/D08552
+D00538,N03AX15,Zonisamide,https://rest.kegg.jp/get/D00538
+D07473,N06BA09,Atomoxetine,https://rest.kegg.jp/get/D07473
+D10175,L01EE01,Trametinib,https://rest.kegg.jp/get/D10175
+D06604,B06AA03,Hyaluronidase,https://rest.kegg.jp/get/D06604
+D02596,L04AC07,Tocilizumab,https://rest.kegg.jp/get/D02596
+D08050,P01BA02,Hydroxychloroquine,https://rest.kegg.jp/get/D08050
+D06644,L03AX17,Sipuleucel-T,https://rest.kegg.jp/get/D06644
+D10871,L04AF04,Filgotinib,https://rest.kegg.jp/get/D10871
+D05928,N03AX17,Stiripentol,https://rest.kegg.jp/get/D05928
+D11041,,,https://rest.kegg.jp/get/D11041
+D00942,M05BA07,Risedronic acid,https://rest.kegg.jp/get/D00942
+D05697,S01LA04,Ranibizumab,https://rest.kegg.jp/get/D05697
+D09960,D11AH09; L01EJ01,Ruxolitinib; Ruxolitinib,https://rest.kegg.jp/get/D09960
+D00142,L01BA01; L04AX03,Methotrexate; Methotrexate,https://rest.kegg.jp/get/D00142
+D00709,N03AX14,Levetiracetam,https://rest.kegg.jp/get/D00709
+D09189,J07AG51,"Haemophilus influenzae b, combinations with toxoids",https://rest.kegg.jp/get/D09189
+D10018,L01FE03,Necitumumab,https://rest.kegg.jp/get/D10018
+D00565,C10AB05,Fenofibrate,https://rest.kegg.jp/get/D00565
+D05866,N01AX11; N07XX04,Sodium oxybate; Sodium oxybate,https://rest.kegg.jp/get/D05866
+D06882,C05BB04,Sodium tetradecyl sulfate,https://rest.kegg.jp/get/D06882
+D07628,A08AA07,Cathine,https://rest.kegg.jp/get/D07628
+D00427,J05AE03,Ritonavir,https://rest.kegg.jp/get/D00427
+D09970,L04AF01,Tofacitinib,https://rest.kegg.jp/get/D09970
+D10881,M09AX07,Nusinersen,https://rest.kegg.jp/get/D10881
+D08491,A10BG02,Rosiglitazone,https://rest.kegg.jp/get/D08491
+D07452,J01CA04,Amoxicillin,https://rest.kegg.jp/get/D07452
+D08996,A10BH03,Saxagliptin,https://rest.kegg.jp/get/D08996
+D00241,M03BX01,Baclofen,https://rest.kegg.jp/get/D00241
+D02497,J05AE07,Fosamprenavir,https://rest.kegg.jp/get/D02497
+D08623,N02AX02,Tramadol,https://rest.kegg.jp/get/D08623
+D10662,N02CD06,Rimegepant,https://rest.kegg.jp/get/D10662
+D08625,N06AF04,Tranylcypromine,https://rest.kegg.jp/get/D08625
+D00126,C01EB16; G02CC01; M01AE01; M02AA13; R02AX02,Ibuprofen; Ibuprofen; Ibuprofen; Ibuprofen; Ibuprofen,https://rest.kegg.jp/get/D00126
+D10757,B02BD04,Coagulation factor IX,https://rest.kegg.jp/get/D10757
+D08969,N05AX17,Pimavanserin,https://rest.kegg.jp/get/D08969
+D01373,R03AC13; R03CC15,Formoterol; Formoterol,https://rest.kegg.jp/get/D01373
+D12055,L01XX73,Sotorasib,https://rest.kegg.jp/get/D12055
+D00804,D11AX22; P02CF01,Ivermectin; Ivermectin,https://rest.kegg.jp/get/D00804
+D00945,A10BG03,Pioglitazone,https://rest.kegg.jp/get/D00945
+D10994,L04AF03,Upadacitinib,https://rest.kegg.jp/get/D10994
+D02052,,,https://rest.kegg.jp/get/D02052
+D08222,N06AX17,Milnacipran,https://rest.kegg.jp/get/D08222
+D08054,N05BB01,Hydroxyzine,https://rest.kegg.jp/get/D08054
+D02971,B02AB01,Aprotinin,https://rest.kegg.jp/get/D02971
+D02956,,,https://rest.kegg.jp/get/D02956
+D07057,J05AF06,Abacavir,https://rest.kegg.jp/get/D07057
+D09730,L01XK01,Olaparib,https://rest.kegg.jp/get/D09730
+D08837,R03BB05,Aclidinium bromide,https://rest.kegg.jp/get/D08837
+D00146,H01AA01,Corticotropin,https://rest.kegg.jp/get/D00146
+D10483,L03AB13,Peginterferon beta-1a,https://rest.kegg.jp/get/D10483
+D00963,L02BG06,Exemestane,https://rest.kegg.jp/get/D00963
+D03068,L04AG04,Belimumab,https://rest.kegg.jp/get/D03068
+D02748,L03AB10,Peginterferon alfa-2b,https://rest.kegg.jp/get/D02748
+D00063,J01GB01; S01AA12,Tobramycin; Tobramycin,https://rest.kegg.jp/get/D00063
+D00989,L02AE02,Leuprorelin,https://rest.kegg.jp/get/D00989
+D09315,L04AC08,Canakinumab,https://rest.kegg.jp/get/D09315
+D11580,C09AA04,Perindopril,https://rest.kegg.jp/get/D11580
+D01832,N06BA07,Modafinil,https://rest.kegg.jp/get/D01832
+D10838,J05AR04,"Zidovudine, lamivudine and abacavir",https://rest.kegg.jp/get/D10838
+D09637,C10AX12,Lomitapide,https://rest.kegg.jp/get/D09637
+D07978,N02BG07,Flupirtine,https://rest.kegg.jp/get/D07978
+D11079,L04AC19,Satralizumab,https://rest.kegg.jp/get/D11079
+D03978,B02BX05,Eltrombopag,https://rest.kegg.jp/get/D03978
+D11674,B06AC06,Berotralstat,https://rest.kegg.jp/get/D11674
+D03213,B01AF02,Apixaban,https://rest.kegg.jp/get/D03213
+D11062,H02CA02,Osilodrostat,https://rest.kegg.jp/get/D11062
+D00456,A04AA01,Ondansetron,https://rest.kegg.jp/get/D00456
+D00434,C10AA01,Simvastatin,https://rest.kegg.jp/get/D00434
+D10913,M05BX05,Burosumab,https://rest.kegg.jp/get/D10913
+D09318,R03AC18,Indacaterol,https://rest.kegg.jp/get/D09318
+D08920,,,https://rest.kegg.jp/get/D08920
+D06409,L01FG01; S01LA08,Bevacizumab; Bevacizumab,https://rest.kegg.jp/get/D06409
+D10813,A16AB17,Cerliponase alfa,https://rest.kegg.jp/get/D10813
+D01745,A03FA03,Domperidone,https://rest.kegg.jp/get/D01745
+D11011,L01EM03,Alpelisib,https://rest.kegg.jp/get/D11011
+D09323,M09AX03,Ataluren,https://rest.kegg.jp/get/D09323
+D11405,M03AX01,Botulinum toxin,https://rest.kegg.jp/get/D11405
+D10308,L04AF02,Baricitinib,https://rest.kegg.jp/get/D10308
+D10396,L01EX09,Nintedanib,https://rest.kegg.jp/get/D10396
+D00746,L03AB08,Interferon beta-1b,https://rest.kegg.jp/get/D00746
+D02724,S01EE03,Bimatoprost,https://rest.kegg.jp/get/D02724
+D09729,A10BJ03,Lixisenatide,https://rest.kegg.jp/get/D09729
+D09572,C02KX05,Riociguat,https://rest.kegg.jp/get/D09572
+D09979,D11AH07,Tralokinumab,https://rest.kegg.jp/get/D09979
+D09725,J07BB02,"Influenza, inactivated, split virus or surface antigen",https://rest.kegg.jp/get/D09725
+D12150,A16AX21,Elivaldogene autotemcel,https://rest.kegg.jp/get/D12150
+D11077,A16AB19,Pegvaliase,https://rest.kegg.jp/get/D11077
+D10025,A10BJ06,Semaglutide,https://rest.kegg.jp/get/D10025
+D09992,L01XJ01,Vismodegib,https://rest.kegg.jp/get/D09992
+D00062,A06AD16; B05BC01; B05CX04; R05CB16; V04CX04,Mannitol; Mannitol; Mannitol; Mannitol; Mannitol,https://rest.kegg.jp/get/D00062
+D01244,L01BC03,Tegafur,https://rest.kegg.jp/get/D01244
+D01199,J05AF09,Emtricitabine,https://rest.kegg.jp/get/D01199
+D09988,H01CB04,Vapreotide,https://rest.kegg.jp/get/D09988
+D11930,B06AX02,Betibeglogene autotemcel,https://rest.kegg.jp/get/D11930
+D10134,,,https://rest.kegg.jp/get/D10134
+D06677,J05AJ02,Elvitegravir,https://rest.kegg.jp/get/D06677
+D09874,R03DX10,Benralizumab,https://rest.kegg.jp/get/D09874
+D03656,J05AE10,Darunavir,https://rest.kegg.jp/get/D03656
+D09733,L01EB03,Afatinib,https://rest.kegg.jp/get/D09733
+D12227,J07BX04,Dengue virus vaccines,https://rest.kegg.jp/get/D12227
+D11877,J05AX28,Bulevirtide,https://rest.kegg.jp/get/D11877
+D00235,C07AB03,Atenolol,https://rest.kegg.jp/get/D00235
+D09966,L01XL02,Talimogene laherparepvec,https://rest.kegg.jp/get/D09966
+D00320,N01AH01; N02AB03,Fentanyl; Fentanyl,https://rest.kegg.jp/get/D00320
+D07471,J05AE08,Atazanavir,https://rest.kegg.jp/get/D07471
+D05940,V03AB35,Sugammadex,https://rest.kegg.jp/get/D05940
+D00950,G03AC03; G03AD01,Levonorgestrel; Levonorgestrel,https://rest.kegg.jp/get/D00950
+D00109,A01AD05; B01AC06; N02BA01,Acetylsalicylic acid; Acetylsalicylic acid; Acetylsalicylic acid,https://rest.kegg.jp/get/D00109
+D01896,B01AC23,Cilostazol,https://rest.kegg.jp/get/D01896
+D00627,C09CA07,Telmisartan,https://rest.kegg.jp/get/D00627
+D09687,G03AD02; G03XB02,Ulipristal; Ulipristal,https://rest.kegg.jp/get/D09687
+D07299,N03AX18,Lacosamide,https://rest.kegg.jp/get/D07299
+D01929,R03BB04,Tiotropium bromide,https://rest.kegg.jp/get/D01929
+D04070,G03CA57,Conjugated estrogens,https://rest.kegg.jp/get/D04070
+D09967,L04AC10,Secukinumab,https://rest.kegg.jp/get/D09967
+D02754,D05BB02,Acitretin,https://rest.kegg.jp/get/D02754
+D03846,L04AX07,Dimethyl fumarate,https://rest.kegg.jp/get/D03846
+D02229,G04BE03,Sildenafil,https://rest.kegg.jp/get/D02229
+D07810,N07BC06,Diamorphine,https://rest.kegg.jp/get/D07810
+D11568,B01AF03,Edoxaban,https://rest.kegg.jp/get/D11568
+D09587,L01FX05,Brentuximab vedotin,https://rest.kegg.jp/get/D09587
+D05380,L01EX03,Pazopanib,https://rest.kegg.jp/get/D05380
+D04820,N05AE05,Lurasidone,https://rest.kegg.jp/get/D04820
+D06247,L02AE04,Triptorelin,https://rest.kegg.jp/get/D06247
+D11123,L04AC24,Mirikizumab,https://rest.kegg.jp/get/D11123
+D08670,N06AX16,Venlafaxine,https://rest.kegg.jp/get/D08670
+D00902,J05AH01,Zanamivir,https://rest.kegg.jp/get/D00902
+D01164,N05AX12,Aripiprazole,https://rest.kegg.jp/get/D01164
+D00306,A04AD10,Dronabinol,https://rest.kegg.jp/get/D00306
+D00624,C09AA04,Perindopril,https://rest.kegg.jp/get/D00624
+D03215,N06BA13,Armodafinil,https://rest.kegg.jp/get/D03215
+D04112,J05AG04,Etravirine,https://rest.kegg.jp/get/D04112
+D10816,,,https://rest.kegg.jp/get/D10816
+D10479,A06AH03,Naloxegol,https://rest.kegg.jp/get/D10479
+D00314,M05BA01,Etidronic acid,https://rest.kegg.jp/get/D00314
+D04121,A10BJ01,Exenatide,https://rest.kegg.jp/get/D04121
+D00323,D01AE21; J02AX01,Flucytosine; Flucytosine,https://rest.kegg.jp/get/D00323
+D11480,B06AX01,Crizanlizumab,https://rest.kegg.jp/get/D11480
+D07064,B01AA07,Acenocoumarol,https://rest.kegg.jp/get/D07064
+D07880,N06AX21,Duloxetine,https://rest.kegg.jp/get/D07880
+D11154,L04AX09,Diroximel fumarate,https://rest.kegg.jp/get/D11154
+D07816,D11AX18; M01AB05; M02AA15; S01BC03,Diclofenac; Diclofenac; Diclofenac; Diclofenac,https://rest.kegg.jp/get/D07816
+D03361,B01AC25,Cangrelor,https://rest.kegg.jp/get/D03361
+D10218,L02BB04,Enzalutamide,https://rest.kegg.jp/get/D10218
+D07472,L01BA04,Pemetrexed,https://rest.kegg.jp/get/D07472
+D02498,J05AR10,Lopinavir and ritonavir,https://rest.kegg.jp/get/D02498
+D10213,J07AL02,"Pneumococcus, purified polysaccharides antigen conjugated",https://rest.kegg.jp/get/D10213
+D04477,A10AB04; A10AC04; A10AD04,Insulin lispro; Insulin lispro; Insulin lispro,https://rest.kegg.jp/get/D04477
+D10226,C09DX04,Valsartan and sacubitril,https://rest.kegg.jp/get/D10226
+D00509,C04AB01; V03AB36,Phentolamine; Phentolamine,https://rest.kegg.jp/get/D00509
+D00353,J05AF05,Lamivudine,https://rest.kegg.jp/get/D00353
+D11863,J07BM03,"Papillomavirus (human types 6, 11, 16, 18, 31, 33, 45, 52, 58)",https://rest.kegg.jp/get/D11863
+D08897,A10BK01,Dapagliflozin,https://rest.kegg.jp/get/D08897
+D00413,J05AF01,Zidovudine,https://rest.kegg.jp/get/D00413
+D00783,M03AX01,Botulinum toxin,https://rest.kegg.jp/get/D00783
+D00219,A10BB31,Acetohexamide,https://rest.kegg.jp/get/D00219
+D11529,L01FD04,Trastuzumab deruxtecan,https://rest.kegg.jp/get/D11529
+D10585,,,https://rest.kegg.jp/get/D10585
+D11279,L01EX18,Avapritinib,https://rest.kegg.jp/get/D11279
+D10915,N03AX24,Cannabidiol,https://rest.kegg.jp/get/D10915
+D07831,N02AA08,Dihydrocodeine,https://rest.kegg.jp/get/D07831
+D09707,,,https://rest.kegg.jp/get/D09707
+D08218,J02AX05,Micafungin,https://rest.kegg.jp/get/D08218
+D06665,C01BG11,Vernakalant,https://rest.kegg.jp/get/D06665
+D11083,S01LA06,Brolucizumab,https://rest.kegg.jp/get/D11083
+D04687,L04AX04,Lenalidomide,https://rest.kegg.jp/get/D04687
+D00939,M05BA04,Alendronic acid,https://rest.kegg.jp/get/D00939
+D09596,M09AB02,Collagenase clostridium histolyticum,https://rest.kegg.jp/get/D09596
+D08067,C09CA09,Azilsartan medoxomil,https://rest.kegg.jp/get/D08067
+D02555,J02AC04,Posaconazole,https://rest.kegg.jp/get/D02555
+D04431,J06BB04,Hepatitis B immunoglobulin,https://rest.kegg.jp/get/D04431
+D09696,,,https://rest.kegg.jp/get/D09696
+D11138,L01EX12,Larotrectinib,https://rest.kegg.jp/get/D11138
+D10065,J05AP07,Daclatasvir,https://rest.kegg.jp/get/D10065
+D09355,A06AX04,Linaclotide,https://rest.kegg.jp/get/D09355
+D08249,A06AH04; V03AB15,Naloxone; Naloxone,https://rest.kegg.jp/get/D08249
+D10403,A07DA06,Eluxadoline,https://rest.kegg.jp/get/D10403
+D00419,A02BB01; G02AD06,Misoprostol; Misoprostol,https://rest.kegg.jp/get/D00419
+D10548,J05AJ04,Cabotegravir,https://rest.kegg.jp/get/D10548
+D00447,J01EC01,Sulfamethoxazole,https://rest.kegg.jp/get/D00447
+D10211,J07BH02,"Rota virus, pentavalent, live, reassorted",https://rest.kegg.jp/get/D10211
+D00105,G03CA03,Estradiol,https://rest.kegg.jp/get/D00105
+D09739,A02BX05,Bismuth subcitrate,https://rest.kegg.jp/get/D09739
+D02994,L01FA01,Rituximab,https://rest.kegg.jp/get/D02994
+D05364,H05AA03,Parathyroid hormone,https://rest.kegg.jp/get/D05364
+D09996,L01EC01,Vemurafenib,https://rest.kegg.jp/get/D09996
+D01893,V08AB05,Iopromide,https://rest.kegg.jp/get/D01893
+D02212,R01AX03; R03BB01,Ipratropium bromide; Ipratropium bromide,https://rest.kegg.jp/get/D02212
+D00563,N06AX11,Mirtazapine,https://rest.kegg.jp/get/D00563
+D09646,S01XA22,Ocriplasmin,https://rest.kegg.jp/get/D09646
+D00426,N05AX08,Risperidone,https://rest.kegg.jp/get/D00426
+D03604,,,https://rest.kegg.jp/get/D03604
+D08456,N05AH04,Quetiapine,https://rest.kegg.jp/get/D08456
+D08232,B02BD02,Coagulation factor VIII,https://rest.kegg.jp/get/D08232
+D10130,L01XG03,Ixazomib,https://rest.kegg.jp/get/D10130
+D08131,C09AA03,Lisinopril,https://rest.kegg.jp/get/D08131
+D08031,C02AC02,Guanfacine,https://rest.kegg.jp/get/D08031
+D10161,L04AC14,Sarilumab,https://rest.kegg.jp/get/D10161
+D10866,L01ED04,Brigatinib,https://rest.kegg.jp/get/D10866
+D10817,L01FF04,Avelumab,https://rest.kegg.jp/get/D10817
+D03106,L01XF03,Bexarotene,https://rest.kegg.jp/get/D03106
+D00587,J01EC02,Sulfadiazine,https://rest.kegg.jp/get/D00587
+D00195,R05DA04,Codeine,https://rest.kegg.jp/get/D00195
+D00276,J01FA09,Clarithromycin,https://rest.kegg.jp/get/D00276
+D03722,,,https://rest.kegg.jp/get/D03722
+D00594,A10BX02,Repaglinide,https://rest.kegg.jp/get/D00594
+D00244,A07EA04; C05AA05; D07AC01; D07XC01; H02AB01; R01AD06; R03BA04; S01BA06; S01CB04; S02BA07; S03BA03,Betamethasone; Betamethasone; Betamethasone; Betamethasone; Betamethasone; Betamethasone; Betamethasone; Betamethasone; Betamethasone; Betamethasone; Betamethasone,https://rest.kegg.jp/get/D00244
+D03635,S01XA21,Mercaptamine,https://rest.kegg.jp/get/D03635
+D00399,N03AG01,Valproic acid,https://rest.kegg.jp/get/D00399
+D10843,C10AX10,Alipogene tiparvovec,https://rest.kegg.jp/get/D10843
+D10319,L01XH03,Panobinostat,https://rest.kegg.jp/get/D10319
+D11008,S01XA27,Voretigene neparvovec,https://rest.kegg.jp/get/D11008
+D08010,H01CC01,Ganirelix,https://rest.kegg.jp/get/D08010
+D00842,N02AA01,Morphine,https://rest.kegg.jp/get/D00842
+D11507,,,https://rest.kegg.jp/get/D11507
+D10821,B02BX06,Emicizumab,https://rest.kegg.jp/get/D10821
+D06067,L01AX03,Temozolomide,https://rest.kegg.jp/get/D06067
+D01393,P02CB01,Piperazine,https://rest.kegg.jp/get/D01393
+D08380,J01CA12,Piperacillin,https://rest.kegg.jp/get/D08380
+D10727,V03AE10,Sodium zirconium cyclosilicate,https://rest.kegg.jp/get/D10727
+D00742,L04AB01,Etanercept,https://rest.kegg.jp/get/D00742
+D04554,L03AB07,Interferon beta-1a,https://rest.kegg.jp/get/D04554
+D10677,H05BX04,Etelcalcetide,https://rest.kegg.jp/get/D10677
+D11055,N02CD03,Fremanezumab,https://rest.kegg.jp/get/D11055
+D06553,A10BH04,Alogliptin,https://rest.kegg.jp/get/D06553
+D08642,C01EB15,Trimetazidine,https://rest.kegg.jp/get/D08642
+D02691,H01AC01,Somatropin,https://rest.kegg.jp/get/D02691
+D11556,L01XL07,Idecabtagene vicleucel,https://rest.kegg.jp/get/D11556
+D05877,A06AD13; A12CA02,Sodium sulfate; Sodium sulfate,https://rest.kegg.jp/get/D05877
+D10636,L01XJ03,Glasdegib,https://rest.kegg.jp/get/D10636
+D10335,C10AX14,Alirocumab,https://rest.kegg.jp/get/D10335
+D08669,N07BA03; S01XA28,Varenicline; Varenicline,https://rest.kegg.jp/get/D08669
+D08617,M02AX06; M03BX04,Tolperisone; Tolperisone,https://rest.kegg.jp/get/D08617
+D08914,L01XX41,Eribulin,https://rest.kegg.jp/get/D08914
+D00570,M04AC01,Colchicine,https://rest.kegg.jp/get/D00570
+D11406,M09AX10,Risdiplam,https://rest.kegg.jp/get/D11406
+D05350,L01FE02,Panitumumab,https://rest.kegg.jp/get/D05350
+D08468,M05BX03,Strontium ranelate,https://rest.kegg.jp/get/D08468
+D00354,N03AX09,Lamotrigine,https://rest.kegg.jp/get/D00354
+D06407,L01EX04,Vandetanib,https://rest.kegg.jp/get/D06407
+D08843,A10BJ04,Albiglutide,https://rest.kegg.jp/get/D08843
+D08188,,,https://rest.kegg.jp/get/D08188
+D02802,L04AG06,Alemtuzumab,https://rest.kegg.jp/get/D02802
+D00540,A03AB02; D11AA01; R03BB06,Glycopyrronium bromide; Glycopyrronium; Glycopyrronium bromide,https://rest.kegg.jp/get/D00540
+D08880,L01XG02,Carfilzomib,https://rest.kegg.jp/get/D08880
+D00282,A01AB18; D01AC01; G01AF02,Clotrimazole; Clotrimazole; Clotrimazole,https://rest.kegg.jp/get/D00282
+D00896,J05AG03,Efavirenz,https://rest.kegg.jp/get/D00896
+D10354,D11AH05,Dupilumab,https://rest.kegg.jp/get/D10354
+D12058,,,https://rest.kegg.jp/get/D12058
+D01790,L01XA03,Oxaliplatin,https://rest.kegg.jp/get/D01790
+D00184,L04AD01; S01XA18,Ciclosporin; Ciclosporin,https://rest.kegg.jp/get/D00184
+D03710,M01AH05,Etoricoxib,https://rest.kegg.jp/get/D03710
+D00107,D11AH01; L04AD02,Tacrolimus; Tacrolimus,https://rest.kegg.jp/get/D00107
+D00106,B01AC09,Epoprostenol,https://rest.kegg.jp/get/D00106
+D00847,N02AA05,Oxycodone,https://rest.kegg.jp/get/D00847
+D04028,A08AB01,Orlistat,https://rest.kegg.jp/get/D04028
+D01204,C09CA08,Olmesartan medoxomil,https://rest.kegg.jp/get/D01204
+D11082,L04AG11,Anifrolumab,https://rest.kegg.jp/get/D11082
+D08047,N02AA03,Hydromorphone,https://rest.kegg.jp/get/D08047
+D06486,,,https://rest.kegg.jp/get/D06486
+D01306,A02BX11,Troxipide,https://rest.kegg.jp/get/D01306
+D10633,C03DA05,Finerenone,https://rest.kegg.jp/get/D10633
+D10172,L04AK02,Teriflunomide,https://rest.kegg.jp/get/D10172
+D02076,D11AX21; S01EA05; S01GA07,Brimonidine; Brimonidine; Brimonidine,https://rest.kegg.jp/get/D02076
+D10227,B02BD02,Coagulation factor VIII,https://rest.kegg.jp/get/D10227
+D00326,N06AB03,Fluoxetine,https://rest.kegg.jp/get/D00326
+D00356,S01EE01,Latanoprost,https://rest.kegg.jp/get/D00356
+D03779,M05BC01,Dibotermin alfa,https://rest.kegg.jp/get/D03779
+D04429,G03GA05,Follitropin alfa,https://rest.kegg.jp/get/D04429
+D11386,L01XL04,Tisagenlecleucel,https://rest.kegg.jp/get/D11386
+D04539,A10AE05,Insulin detemir,https://rest.kegg.jp/get/D04539
+D10138,L01EX05,Regorafenib,https://rest.kegg.jp/get/D10138
+D09673,N07XX08,Tafamidis,https://rest.kegg.jp/get/D09673
+D10758,B02BD02,Coagulation factor VIII,https://rest.kegg.jp/get/D10758
+D03651,B03XA02,Darbepoetin alfa,https://rest.kegg.jp/get/D03651
+D02360,N06AB06,Sertraline,https://rest.kegg.jp/get/D02360
+D11116,N07XX12,Patisiran,https://rest.kegg.jp/get/D11116
+D10398,V10XX03,Radium (223Ra) dichloride,https://rest.kegg.jp/get/D10398
+D09720,J05AG05,Rilpivirine,https://rest.kegg.jp/get/D09720
+D00172,B02BD05; B02BD08,Coagulation factor VII; Coagulation factor VIIa,https://rest.kegg.jp/get/D00172
+D08797,B02BD04,Coagulation factor IX,https://rest.kegg.jp/get/D08797
+D03455,L01FE01,Cetuximab,https://rest.kegg.jp/get/D03455
+D09921,M04AB05,Lesinurad,https://rest.kegg.jp/get/D09921
+D05775,N03AF03,Rufinamide,https://rest.kegg.jp/get/D05775
+D08689,M05BA08,Zoledronic acid,https://rest.kegg.jp/get/D08689
+D06676,J05AJ01,Raltegravir,https://rest.kegg.jp/get/D06676
+D05938,N01AH03,Sufentanil,https://rest.kegg.jp/get/D05938
+D00448,A07EC01,Sulfasalazine,https://rest.kegg.jp/get/D00448
+D05032,A16AX06,Miglustat,https://rest.kegg.jp/get/D05032
+D11050,L01FC02,Isatuximab,https://rest.kegg.jp/get/D11050
+kegg_drug_entry_id,atc_code,atc_value,kegg_details_url
+D05445,J07AJ02,"Pertussis, purified antigen",https://rest.kegg.jp/get/D05445
+D05182,J07BB01,"Influenza, inactivated, whole virus",https://rest.kegg.jp/get/D05182
+D03530,J07AE01,"Cholera, inactivated, whole cell",https://rest.kegg.jp/get/D03530
+D02331,,,https://rest.kegg.jp/get/D02331
+D04536,J07BB01,"Influenza, inactivated, whole virus",https://rest.kegg.jp/get/D04536
+D02958,,,https://rest.kegg.jp/get/D02958
+D04668,,,https://rest.kegg.jp/get/D04668
+D04456,B06AA03,Hyaluronidase,https://rest.kegg.jp/get/D04456

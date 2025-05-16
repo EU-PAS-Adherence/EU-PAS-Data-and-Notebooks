@@ -1,0 +1,36 @@
+                     Logit Regression Results                    
+Dep. Variable:  ,has_result      ,  No. Observations:  ,  1470   
+Model:          ,Logit           ,  Df Residuals:      ,  1443   
+Method:         ,MLE             ,  Df Model:          ,    26   
+Date:           ,Fri, 01 Mar 2024,  Pseudo R-squ.:     ,0.08193  
+Time:           ,18:16:50        ,  Log-Likelihood:    , -819.68 
+converged:      ,True            ,  LL-Null:           , -892.83 
+Covariance Type:,nonrobust       ,  LLR p-value:       ,9.946e-19
+                                                                                                      ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] 
+Intercept                                                                                             ,  -27.0582,   46.424,   -0.583, 0.560, -118.047,   63.931
+Q("study_type__active_surveillance")[T.True]                                                          ,   -1.0816,    0.376,   -2.880, 0.004,   -1.818,   -0.346
+Q("study_type__clinical_trial")[T.True]                                                               ,   -0.9243,    0.495,   -1.866, 0.062,   -1.895,    0.047
+Q("study_type__other")[T.True]                                                                        ,   -0.6791,    0.181,   -3.757, 0.000,   -1.033,   -0.325
+Q("collaboration_with_research_network__true")[T.True]                                                ,   -0.5133,    0.186,   -2.764, 0.006,   -0.877,   -0.149
+Q("country_type__international_study")[T.True]                                                        ,    0.5693,    0.138,    4.121, 0.000,    0.299,    0.840
+Q("multiple_funding_sources__true")[T.True]                                                           ,   -0.8390,    0.281,   -2.986, 0.003,   -1.390,   -0.288
+Q("medical_conditions__false")[T.True]                                                                ,   -0.2637,    0.152,   -1.736, 0.082,   -0.561,    0.034
+Q("sex_population__female")[T.True]                                                                   ,    0.5444,    0.246,    2.211, 0.027,    0.062,    1.027
+Q("sex_population__male")[T.True]                                                                     ,    0.1054,    0.335,    0.315, 0.753,   -0.551,    0.761
+Q("number_of_subjects_grouped__1000-10000")[T.True]                                                   ,   -0.3900,    0.187,   -2.089, 0.037,   -0.756,   -0.024
+Q("number_of_subjects_grouped__500-<1000")[T.True]                                                    ,   -0.2975,    0.234,   -1.272, 0.203,   -0.756,    0.161
+Q("number_of_subjects_grouped__<100")[T.True]                                                         ,    0.3398,    0.243,    1.400, 0.161,   -0.136,    0.815
+Q("number_of_subjects_grouped__>10000")[T.True]                                                       ,   -0.0221,    0.187,   -0.118, 0.906,   -0.388,    0.344
+Q("uses_established_data_source__true")[T.True]                                                       ,    0.1786,    0.139,    1.284, 0.199,   -0.094,    0.451
+Q("follow_up__true")[T.True]                                                                          ,    0.0944,    0.134,    0.704, 0.482,   -0.169,    0.357
+Q("primary_outcomes__true")[T.True]                                                                   ,    0.2231,    0.156,    1.427, 0.154,   -0.083,    0.530
+Q("planned_duration_quartiles__2")[T.True]                                                            ,    0.1893,    0.181,    1.047, 0.295,   -0.165,    0.544
+Q("planned_duration_quartiles__3")[T.True]                                                            ,   -0.1794,    0.191,   -0.941, 0.347,   -0.553,    0.194
+Q("planned_duration_quartiles__4")[T.True]                                                            ,    0.2993,    0.247,    1.210, 0.226,   -0.185,    0.784
+Q("planned_duration_quartiles__nan")[T.True]                                                          ,   -0.3934,    0.183,   -2.147, 0.032,   -0.752,   -0.034
+Q("risk_management_plan__eu_rmp_category_1_(imposed_as_condition_of_marketing_authorisation)")[T.True],    1.3329,    0.402,    3.312, 0.001,    0.544,    2.122
+Q("risk_management_plan__eu_rmp_category_2_(specific_obligation_of_marketing_authorisation)")[T.True] ,    1.0917,    0.771,    1.416, 0.157,   -0.420,    2.603
+Q("risk_management_plan__eu_rmp_category_3_(required)")[T.True]                                       ,    0.4647,    0.161,    2.883, 0.004,    0.149,    0.781
+Q("risk_management_plan__non-eu_rmp_only")[T.True]                                                    ,    0.3901,    0.275,    1.418, 0.156,   -0.149,    0.929
+Q("risk_management_plan__nan")[T.True]                                                                ,   -0.3940,    0.288,   -1.366, 0.172,   -0.959,    0.171
+Q("registration_date")                                                                                ,    0.0137,    0.023,    0.596, 0.551,   -0.031,    0.059

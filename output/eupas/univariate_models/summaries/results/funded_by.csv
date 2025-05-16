@@ -1,0 +1,16 @@
+                     Logit Regression Results                    
+Dep. Variable:  ,has_result      ,  No. Observations:  ,  1470   
+Model:          ,Logit           ,  Df Residuals:      ,  1463   
+Method:         ,MLE             ,  Df Model:          ,     6   
+Date:           ,Fri, 01 Mar 2024,  Pseudo R-squ.:     ,0.03038  
+Time:           ,00:24:11        ,  Log-Likelihood:    , -865.70 
+converged:      ,True            ,  LL-Null:           , -892.83 
+Covariance Type:,nonrobust       ,  LLR p-value:       ,6.550e-10
+                                 ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] 
+Intercept                        ,    1.3305,    0.268,    4.971, 0.000,    0.806,    1.855
+Q("funded_by__charities")        ,   -0.2732,    0.591,   -0.463, 0.644,   -1.431,    0.884
+Q("funded_by__companies")        ,   -0.2477,    0.265,   -0.933, 0.351,   -0.768,    0.273
+Q("funded_by__eu_schemes")       ,   -0.0187,    0.391,   -0.048, 0.962,   -0.786,    0.748
+Q("funded_by__government_bodies"),   -1.1302,    0.316,   -3.572, 0.000,   -1.750,   -0.510
+Q("funded_by__other")            ,   -1.1038,    0.257,   -4.293, 0.000,   -1.608,   -0.600
+Q("funded_by__research_councils"),   -0.2798,    0.772,   -0.362, 0.717,   -1.793,    1.233

@@ -1,0 +1,41 @@
+                     Logit Regression Results                    
+Dep. Variable:  ,has_result      ,  No. Observations:  ,  1482   
+Model:          ,Logit           ,  Df Residuals:      ,  1450   
+Method:         ,MLE             ,  Df Model:          ,    31   
+Date:           ,Sun, 16 Mar 2025,  Pseudo R-squ.:     ,0.1733   
+Time:           ,21:02:11        ,  Log-Likelihood:    , -764.06 
+converged:      ,True            ,  LL-Null:           , -924.26 
+Covariance Type:,nonrobust       ,  LLR p-value:       ,8.118e-50
+                                                                                                      ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] ,odds rt,[0.025, 0.975]
+Intercept                                                                                             ,    2.2938,    0.322,    7.116, 0.000,    1.662,    2.926,9.9125 ,5.2699,18.6448
+Q("age_population__18+_years;_<18_years")[T.True]                                                     ,    0.2938,    0.155,    1.893, 0.058,   -0.010,    0.598,1.3415 ,0.9897,1.8182 
+Q("age_population__<18_years")[T.True]                                                                ,    0.3120,    0.267,    1.170, 0.242,   -0.211,    0.835,1.3662 ,0.8101,2.3041 
+Q("collaboration_with_research_network__true")[T.True]                                                ,   -0.4674,    0.224,   -2.090, 0.037,   -0.906,   -0.029,0.6266 ,0.4043,0.9713 
+Q("funding_sources_grouped__mixed")[T.True]                                                           ,   -0.7779,    0.435,   -1.790, 0.073,   -1.630,    0.074,0.4594 ,0.196 ,1.0767 
+Q("funding_sources_grouped__no_funding")[T.True]                                                      ,   -1.3268,    0.592,   -2.242, 0.025,   -2.487,   -0.167,0.2653 ,0.0832,0.8464 
+Q("funding_sources_grouped__non-commercial")[T.True]                                                  ,   -0.4816,    0.219,   -2.202, 0.028,   -0.910,   -0.053,0.6178 ,0.4024,0.9485 
+Q("funding_sources_grouped__unclear")[T.True]                                                         ,   -1.7379,    0.498,   -3.489, 0.000,   -2.714,   -0.762,0.1759 ,0.0663,0.4669 
+Q("has_outcomes__true")[T.True]                                                                       ,    0.5677,    0.170,    3.340, 0.001,    0.235,    0.901,1.7642 ,1.2644,2.4617 
+Q("multiple_funding_sources__true")[T.True]                                                           ,   -0.9348,    0.238,   -3.921, 0.000,   -1.402,   -0.468,0.3927 ,0.2461,0.6266 
+Q("number_of_countries_grouped__multiple_countries")[T.True]                                          ,    0.2981,    0.149,    2.003, 0.045,    0.006,    0.590,1.3472 ,1.0064,1.8034 
+Q("number_of_studies_funded_by_biggest_sponsor_quartiles__1")[T.True]                                 ,   -2.4654,    0.231,  -10.682, 0.000,   -2.918,   -2.013,0.085  ,0.0541,0.1336 
+Q("number_of_studies_funded_by_biggest_sponsor_quartiles__2")[T.True]                                 ,   -1.6233,    0.245,   -6.632, 0.000,   -2.103,   -1.144,0.1972 ,0.1221,0.3187 
+Q("number_of_studies_funded_by_biggest_sponsor_quartiles__3")[T.True]                                 ,   -1.2101,    0.251,   -4.828, 0.000,   -1.701,   -0.719,0.2982 ,0.1824,0.4873 
+Q("number_of_subjects_grouped__1000-10000")[T.True]                                                   ,   -0.3054,    0.197,   -1.549, 0.121,   -0.692,    0.081,0.7368 ,0.5006,1.0845 
+Q("number_of_subjects_grouped__500-<1000")[T.True]                                                    ,   -0.3901,    0.242,   -1.615, 0.106,   -0.863,    0.083,0.677  ,0.4217,1.0869 
+Q("number_of_subjects_grouped__<100")[T.True]                                                         ,   -0.0092,    0.249,   -0.037, 0.971,   -0.497,    0.478,0.9909 ,0.6086,1.6132 
+Q("number_of_subjects_grouped__>10000")[T.True]                                                       ,   -0.1769,    0.201,   -0.881, 0.378,   -0.570,    0.217,0.8379 ,0.5653,1.242  
+Q("planned_duration_quartiles__2")[T.True]                                                            ,    0.0824,    0.204,    0.404, 0.686,   -0.317,    0.482,1.0859 ,0.7283,1.6191 
+Q("planned_duration_quartiles__3")[T.True]                                                            ,    0.1168,    0.207,    0.563, 0.573,   -0.290,    0.523,1.1239 ,0.7486,1.6872 
+Q("planned_duration_quartiles__4")[T.True]                                                            ,    0.2101,    0.220,    0.956, 0.339,   -0.221,    0.641,1.2338 ,0.8021,1.8978 
+Q("planned_duration_quartiles__nan")[T.True]                                                          ,   -0.4072,    0.203,   -2.011, 0.044,   -0.804,   -0.010,0.6655 ,0.4474,0.9898 
+Q("risk_management_plan__eu_rmp_category_1_(imposed_as_condition_of_marketing_authorisation)")[T.True],    2.0853,    0.432,    4.831, 0.000,    1.239,    2.931,8.047  ,3.4528,18.7538
+Q("risk_management_plan__eu_rmp_category_2_(specific_obligation_of_marketing_authorisation)")[T.True] ,    1.3831,    0.787,    1.757, 0.079,   -0.160,    2.926,3.9872 ,0.852 ,18.6588
+Q("risk_management_plan__eu_rmp_category_3_(required)")[T.True]                                       ,    0.5151,    0.171,    3.005, 0.003,    0.179,    0.851,1.6738 ,1.1962,2.342  
+Q("risk_management_plan__nan")[T.True]                                                                ,    0.1915,    0.328,    0.584, 0.559,   -0.451,    0.834,1.2111 ,0.6367,2.3036 
+Q("risk_management_plan__non-eu_rmp_only")[T.True]                                                    ,   -0.1447,    0.289,   -0.501, 0.616,   -0.711,    0.421,0.8652 ,0.4913,1.5238 
+Q("studied_medical_conditions__false")[T.True]                                                        ,   -0.1491,    0.153,   -0.976, 0.329,   -0.448,    0.150,0.8615 ,0.6386,1.162  
+Q("study_type__clinical_trial")[T.True]                                                               ,   -0.1480,    0.539,   -0.275, 0.783,   -1.204,    0.908,0.8624 ,0.3001,2.4786 
+Q("study_type__not_applicable")[T.True]                                                               ,   -0.6296,    0.510,   -1.233, 0.217,   -1.630,    0.371,0.5328 ,0.1959,1.4491 
+Q("uses_established_data_source__true")[T.True]                                                       ,   -0.1906,    0.156,   -1.218, 0.223,   -0.497,    0.116,0.8265 ,0.6082,1.1231 
+Q("final_report_days_difference")                                                                     ,   -0.0002,  6.3e-05,   -2.846, 0.004,   -0.000,-5.59e-05,0.9998 ,0.9997,0.9999 
