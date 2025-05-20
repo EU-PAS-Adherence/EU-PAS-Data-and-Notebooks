@@ -1,5 +1,9 @@
 # EU PAS Register Data Matching
-This repository contains raw data, notebooks, and script outputs.
+![GitHub top language](https://img.shields.io/github/languages/top/EU-PAS-Adherence/EU-PAS-Data-and-Notebooks?style=flat) ![GitHub License](https://img.shields.io/github/license/EU-PAS-Adherence/EU-PAS-Data-and-Notebooks?style=flat)
+
+This repository contains the data and notebooks used to analyse the metadata of the [HMA-EMA RWD Studies Catalogue](https://catalogues.ema.europa.eu/) (short: Catalogue) on **21 February 2024**, with the aim to evaluate the adherence of post-authorisation studies (PAS) with legislation and recommendations to make public protocols and results. This repository also hosts all statistical outputs.
+
+The Catalogue is a registry for non-interventional PAS managed by the European Medicines Agency (EMA). Non-interventional PAS included in a risk management plan (RMP) category 1 or 2 are **required** by law to register the protocol and results in this registry. Other non-interventional PAS are only **recommended** to register their protocol and results in this registry.
 
 ## Legend
 This is a legend for all the files in this repository:
@@ -8,7 +12,7 @@ This is a legend for all the files in this repository:
 + `./notebook`
     + This folder contains Jupyter notebooks for some important tasks. Read the explanations inside the notebooks for further help.
 + `./output`
-    + This folder contains output data created by the custom `statistic` commands and scrapy spiders
+    + This folder contains output data created by the custom `statistic` commands and Scrapy spiders in this [repository](https://github.com/EU-PAS-Adherence/EU-PAS-Scraper).
 
 ## Data flowchart
 The following flowchart illustrates the data flow for analysis. We used scraped and exported datasets, classifying the outcomes and cancelled studies manually. Regular expressions and ChatGPT were **not** used to detect cancelled studies in the final analysis. See [here](ema_rwd_commands.md) for additional explanations.
