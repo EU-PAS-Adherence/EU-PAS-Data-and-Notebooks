@@ -11,7 +11,7 @@ This is a legend for all the files in this repository:
     + This folder contains output data created by the custom `statistic` commands and scrapy spiders
 
 ## Data flowchart
-The following flowchart illustrates the data flow for analysis. We used scraped and exported datasets, classifying the outcomes and cancelled studies manually. See [here](ema_rwd_commands.md) for additional explanations.
+The following flowchart illustrates the data flow for analysis. We used scraped and exported datasets, classifying the outcomes and cancelled studies manually. Regular expressions and ChatGPT were **not** used to detect cancelled studies in the final analysis. See [here](ema_rwd_commands.md) for additional explanations.
 
 ```mermaid
 flowchart TD
@@ -55,10 +55,10 @@ flowchart TD
     T --> K
 
     %% Final outputs
-    K -- "`funding.json studies.json`" --> V["Extra Website"]
+    K -- "`funding.json studies.json`" --> V["Supplement Website"]
     V --> U["npm run build"]
 
-    K --> W["Supplement Outputs"]
+    K --> W["Extra Outputs"]
     W --> P[extra_analysis notebooks]
     W --> Q[extra_tables notebooks]
     W --> R[extra_plots notebooks]
