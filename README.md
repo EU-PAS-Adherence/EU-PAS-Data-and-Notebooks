@@ -1,4 +1,4 @@
-# EU PAS Register Data Matching
+# EU PAS Data and Notebooks
 ![GitHub top language](https://img.shields.io/github/languages/top/EU-PAS-Adherence/EU-PAS-Data-and-Notebooks?style=flat) ![GitHub License](https://img.shields.io/github/license/EU-PAS-Adherence/EU-PAS-Data-and-Notebooks?style=flat)
 
 This repository contains the data and notebooks used to analyse the metadata of the [HMA-EMA RWD Studies Catalogue](https://catalogues.ema.europa.eu/) (short: Catalogue) on **21 February 2024**, with the aim to evaluate the adherence of post-authorisation studies (PAS) with legislation and recommendations to make public protocols and results. This repository also hosts all statistical outputs.
