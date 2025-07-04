@@ -9,7 +9,7 @@ The Catalogue is a registry for non-interventional PAS managed by the European M
 > The data required to run all notebooks is incomplete! \
 > Download the ZIP file containing the study documents from Zenodo using the link below.
 > 
-> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15799762.svg)](https://doi.org/10.5281/zenodo.15799762)
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15480717.svg)](https://doi.org/10.5281/zenodo.15480717)
 >
 > Extract the ZIP file and place the extracted folders in the `./notebooks/study_documents` folder.
 
