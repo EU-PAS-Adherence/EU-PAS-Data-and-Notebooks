@@ -5,6 +5,14 @@ This repository contains the data and notebooks used to analyse the metadata of 
 
 The Catalogue is a registry for non-interventional PAS managed by the European Medicines Agency (EMA). Non-interventional PAS included in a risk management plan (RMP) category 1 or 2 are **required** by law to register the protocol and results in this registry. Other non-interventional PAS are only **recommended** to register their protocol and results in this registry.
 
+> [!IMPORTANT]
+> The data required to run all notebooks is incomplete! \
+> Download the ZIP file containing the study documents from Zenodo using the link below.
+> 
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15799762.svg)](https://doi.org/10.5281/zenodo.15799762)
+>
+> Extract the ZIP file and place the extracted folders in the `./notebooks/study_documents` folder.
+
 ## Legend
 This is a legend for all the files in this repository:
 + `./data`
